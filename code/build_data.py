@@ -1,14 +1,14 @@
 """Build cleaned SIPRI trade-register dataset with licensed-production coding
 and weapon-category classification.
 
-Input : data/raw/trade-register.csv (SIPRI export, cp1252)
+Input : /mnt/user-data/uploads/trade-register_1.csv (SIPRI export, cp1252)
 Output: deals_clean.csv, coding_audit.csv
 """
 import re
 import pandas as pd
 import numpy as np
 
-SRC = "data/raw/trade-register.csv"
+SRC = "/mnt/user-data/uploads/trade-register_1.csv"
 
 df = pd.read_csv(SRC, encoding="cp1252", skiprows=11)
 df.columns = ['recipient', 'supplier', 'order_year', 'order_unc', 'n_ordered', 'n_unc',
@@ -92,7 +92,8 @@ loc2_ok = pd.Series([loc_is_recipient(l, r) for l, r in zip(loc2_hit, df['recipi
 df['lic_L1'] = (c.str.contains(L1_PAT, regex=True) | loc_ok | loc2_ok).astype(int)
 asm_loc = c.str.extract(r'assembl\w*(?:\s*/\s*produced|\s+or\s+produced)?(?:\s+from\s+kits)?\s+(?:in|on|at)\s+([a-z]+(?: [a-z]+)?)')[0]
 asm_ok = pd.Series([loc_is_recipient(l, r) for l, r in zip(asm_loc, df['recipient'])], index=df.index)
-df['lic_L2'] = (c.str.contains(L2_PAT, regex=True) & (asm_loc.isna() | asm_ok)).astype(int)
+supplier_side = c.str.contains(r'from\s+(?:\w+\s+)?assembl\w*\s*/?\s*production\s+line|from\s+assembly\s+line', regex=True)
+df['lic_L2'] = (c.str.contains(L2_PAT, regex=True) & (asm_loc.isna() | asm_ok) & ~supplier_side).astype(int)
 # L3: components, or a named part (warheads, hulls, sections, parts ...) produced in the recipient; when a location is
 # named it must be the recipient (adjectival forms such as 'Norwegian production of components' are accepted)
 L3_LOC_PAT = r'production\s+of\s+(?:\w+\s+){0,2}(?:components?|parts|warheads|hulls?|sections?|subsystems?|fuselages?|wings|electronics|engines?|turrets?)\s+(?:in|on)\s+([a-z]+(?: [a-z]+)?)'
@@ -116,7 +117,7 @@ df['lic_tier'] = np.select([df.lic_L1 == 1, df.lic_L2 == 1, df.lic_L3 == 1], [1,
 df['lic_any'] = (df.lic_tier > 0).astype(int)
 df['lic_uncertain'] = (c.str.contains(r'(?:probably|possibly)\s+(?:\w+\s+){0,2}(?:produced|assembled|under licence)', regex=True) & (df.lic_any == 1)).astype(int)
 # partial: only part of the order produced under licence ("incl 95 produced under licence")
-df['lic_partial'] = (c.str.contains(r'(?:incl(?:uding)?|in)\s+(?:some\s+|about\s+|up to\s+)?\d+\s+(?:\w+\s+){0,2}(?:produced|assembled)', regex=True) & (df.lic_any == 1)).astype(int)
+df['lic_partial'] = ((c.str.contains(r'(?:incl(?:uding)?|in)\s+(?:some\s+|about\s+|up to\s+)?\d+\s+(?:\w+\s+){0,2}(?:produced|assembled)', regex=True) | c.str.contains(r'\bmost\s+(?:\w+\s+){0,2}(?:assembled|produced)', regex=True)) & (df.lic_any == 1)).astype(int)
 # 'A or B' forms where SIPRI could not tell the tier apart (e.g. 'production of components or production under licence'):
 # flagged so that a conservative coding (lower tier) can be used in robustness checks
 df['lic_either'] = (c.str.contains(r'(?:assembl\w*|compo\w+)\s+or\s+(?:produc\w*|production)', regex=True) & (df.lic_L1 == 1)).astype(int)
