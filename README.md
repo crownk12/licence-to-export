@@ -4,7 +4,7 @@
 Replication package for the manuscript below. Repository: https://github.com/crownk12/licence-to-export
 Code and derived data for the manuscript *Does Licensed Production Build Arms Exporters? Evidence from 75 Years of Major-Arms Transfers* (submitted to *Defence and Peace Economics*).
 
-**Authors.** Wonkyun Yim, Yoseob Cho, Seokjoong Kang (Graduate School of Management of Technology, Korea University). Corresponding author: Seokjoong Kang (sjkang62@korea.ac.kr); correspondence on this repository: Wonkyun Yim (yimwk88@korea.ac.kr).
+**Authors.** Wonkyun Yim, Yoseob Cho, Seokjoong Kang (Graduate School of Management of Technology, Korea University). Corresponding author: Seokjoong Kang (sjkang64@korea.ac.kr); correspondence on this repository: Wonkyun Yim (yimwk88@korea.ac.kr).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23634082.svg)](https://doi.org/10.5281/zenodo.23634082)
 
