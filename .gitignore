@@ -1,0 +1,12 @@
+# Raw source data: redistribution not permitted by provider terms. Obtain from the links in README.
+data/raw/
+*.xlsx
+trade-register*.csv
+deals_clean.csv
+SIPRI-Milex*
+mpd2023*
+API_NY.GDP*
+# scratch
+__pycache__/
+*.pyc
+.DS_Store

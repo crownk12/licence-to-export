@@ -1,0 +1,5 @@
+spec,var,coef,se,p,semi_elasticity_pct,n
+"(B1) export deals ~ log licence stock(t-5), import stock; FE only; 1950+",log_lic_stock_l5,0.022,0.142,0.875,2.3,13984
+"(B2) + GDP, GDP pc, Milex (t-1); 1960+",log_lic_stock_l5,-0.16,0.134,0.234,-14.8,7525
+(B3) ever licensed by t-5 (dummy) instead of stock,ever_lic_l5,-0.239,0.214,0.264,-21.2,7525
+(B4) outcome = # export categories,log_lic_stock_l5,-0.006,0.114,0.958,-0.6,7525

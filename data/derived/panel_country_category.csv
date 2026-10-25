@@ -1,0 +1,1319 @@
+country,category,first_import,n_import,tiv_import,first_lic,n_lic,first_lic_any,first_export,n_export,tier3,licensed,pre_exporter,event,duration,dur_lic,lic_before_export
+Afghanistan,Air defence systems,1965,4,407.22,,,,,,weapon,0,0,0,60.0,,0
+Afghanistan,Aircraft,1955,69,7631.01,,,,,,platform,0,0,0,70.0,,0
+Afghanistan,Armoured vehicles,1957,38,4102.47,,,,,,platform,0,0,0,68.0,,0
+Afghanistan,Artillery,1958,11,402.82,,,,,,weapon,0,0,0,67.0,,0
+Afghanistan,Engines,1977,4,31.6,,,,,,subsystem,0,0,0,48.0,,0
+Afghanistan,Missiles,1961,19,3224.74,,,,,,weapon,0,0,0,64.0,,0
+Afghanistan,Sensors,1964,3,85.5,,,,,,subsystem,0,0,0,61.0,,0
+Albania,Air defence systems,1955,2,49.18,,,,,,weapon,0,0,0,70.0,,0
+Albania,Aircraft,1951,34,906.89,,,,,,platform,0,0,0,74.0,,0
+Albania,Armoured vehicles,1955,10,778.64,,,,,,platform,0,0,0,70.0,,0
+Albania,Artillery,1952,9,387.25,,,,2011.0,1.0,weapon,0,0,1,59.0,,0
+Albania,Missiles,1964,7,68.25,,,,,,weapon,0,0,0,61.0,,0
+Albania,Sensors,1955,3,17.72,,,,,,subsystem,0,0,0,70.0,,0
+Albania,Ships,1949,15,668.41,,,,,,platform,0,0,0,76.0,,0
+Algeria,Air defence systems,1965,12,2794.32,,,,,,weapon,0,0,0,60.0,,0
+Algeria,Aircraft,1961,107,14917.29,2013.0,2.0,1986.0,1967.0,2.0,platform,1,0,1,6.0,-46.0,0
+Algeria,Anti-submarine warfare weapons,1985,9,321.0,,,,,,weapon,0,0,0,40.0,,0
+Algeria,Armoured vehicles,1961,50,6508.17,2021.0,1.0,2012.0,1982.0,2.0,platform,1,0,1,21.0,-39.0,0
+Algeria,Artillery,1961,23,514.06,,,,1982.0,1.0,weapon,0,0,1,21.0,,0
+Algeria,Engines,1974,15,179.4,,,,,,subsystem,0,0,0,51.0,,0
+Algeria,Missiles,1965,69,3095.75,,,,,,weapon,0,0,0,60.0,,0
+Algeria,Naval weapons,1981,6,31.5,,,,,,weapon,0,0,0,44.0,,0
+Algeria,Sensors,1965,34,535.1,,,,,,subsystem,0,0,0,60.0,,0
+Algeria,Ships,1962,33,4908.8,1981.0,3.0,1981.0,,,platform,1,0,0,63.0,44.0,1
+Angola,Air defence systems,1975,12,1039.44,,,,,,weapon,0,0,0,50.0,,0
+Angola,Aircraft,1974,93,5055.91,,,,1979.0,2.0,platform,0,0,1,5.0,,0
+Angola,Armoured vehicles,1974,48,1098.82,,,,2002.0,2.0,platform,0,0,1,28.0,,0
+Angola,Artillery,1975,28,253.9,,,,,,weapon,0,0,0,50.0,,0
+Angola,Engines,1981,9,28.2,,,,,,subsystem,0,0,0,44.0,,0
+Angola,Missiles,1975,19,464.3,,,,,,weapon,0,0,0,50.0,,0
+Angola,Sensors,1975,16,515.3,,,,,,subsystem,0,0,0,50.0,,0
+Angola,Ships,1975,11,312.4,,,,,,platform,0,0,0,50.0,,0
+Antigua and Barbuda,Aircraft,2021,2,0.54,,,,,,platform,0,0,0,4.0,,0
+Argentina,Air defence systems,1968,4,129.0,,,,,,weapon,0,0,0,57.0,,0
+Argentina,Aircraft,1948,180,4163.66,1968.0,1.0,1956.0,1962.0,16.0,platform,1,0,1,14.0,-6.0,0
+Argentina,Anti-submarine warfare weapons,1968,6,287.0,,,,,,weapon,0,0,0,57.0,,0
+Argentina,Armoured vehicles,1948,32,1143.95,1968.0,5.0,1967.0,1980.0,4.0,platform,1,0,1,32.0,12.0,1
+Argentina,Artillery,1950,11,199.7,1972.0,1.0,1970.0,1980.0,2.0,weapon,1,0,1,30.0,8.0,1
+Argentina,Engines,1946,23,265.35,,,,1988.0,1.0,subsystem,0,0,1,42.0,,0
+Argentina,Missiles,1963,31,289.14,,,,,,weapon,0,0,0,62.0,,0
+Argentina,Naval weapons,1970,4,111.0,,,,,,weapon,0,0,0,55.0,,0
+Argentina,Sensors,1968,32,762.06,,,,,,subsystem,0,0,0,57.0,,0
+Argentina,Ships,1950,32,5105.58,1970.0,2.0,1968.0,1964.0,2.0,platform,1,0,1,14.0,-6.0,0
+Armenia,Air defence systems,1993,5,233.0,,,,,,weapon,0,0,0,32.0,,0
+Armenia,Aircraft,2003,6,343.8,,,,2005.0,1.0,platform,0,0,1,2.0,,0
+Armenia,Armoured vehicles,1993,7,136.92000000000002,,,,,,platform,0,0,0,32.0,,0
+Armenia,Artillery,1995,13,50.2,,,,,,weapon,0,0,0,30.0,,0
+Armenia,Missiles,1993,16,282.40000000000003,,,,,,weapon,0,0,0,32.0,,0
+Armenia,Sensors,2020,2,32.0,,,,,,subsystem,0,0,0,5.0,,0
+Australia,Air defence systems,1959,7,492.4,,,2019.0,,,weapon,0,0,0,66.0,,0
+Australia,Aircraft,1945,131,26303.37,1945.0,8.0,1945.0,1962.0,51.0,platform,1,0,1,17.0,17.0,1
+Australia,Anti-submarine warfare weapons,1950,13,826.75,,,2003.0,1970.0,3.0,weapon,0,0,1,20.0,,0
+Australia,Armoured vehicles,1951,41,1986.67,1992.0,14.0,1992.0,1997.0,28.0,platform,1,0,1,46.0,5.0,1
+Australia,Artillery,1959,8,232.51999999999998,1982.0,2.0,1982.0,2022.0,1.0,weapon,1,0,1,63.0,40.0,1
+Australia,Engines,1951,28,574.04,,,,,,subsystem,0,0,0,74.0,,0
+Australia,Missiles,1959,85,2490.48,2022.0,1.0,1998.0,1960.0,5.0,weapon,1,0,1,1.0,-62.0,0
+Australia,Naval weapons,1950,7,222.3,,,,,,weapon,0,0,0,75.0,,0
+Australia,Sensors,1957,44,1216.95,,,1982.0,,,subsystem,0,0,0,68.0,,0
+Australia,Ships,1945,40,12277.58,1957.0,11.0,1957.0,1952.0,44.0,platform,1,0,1,7.0,-5.0,0
+Austria,Air defence systems,1956,6,113.76,,,,,,weapon,0,0,0,69.0,,0
+Austria,Aircraft,1955,51,1700.22,,,2025.0,1967.0,58.0,platform,0,0,1,12.0,,0
+Austria,Armoured vehicles,1952,29,922.73,,,,1976.0,44.0,platform,0,0,1,24.0,,0
+Austria,Artillery,1955,13,237.66,,,,1981.0,11.0,weapon,0,0,1,26.0,,0
+Austria,Engines,1968,7,105.84,,,,,,subsystem,0,0,0,57.0,,0
+Austria,Missiles,1989,9,192.8,,,,,,weapon,0,0,0,36.0,,0
+Austria,Sensors,1956,14,633.72,,,,,,subsystem,0,0,0,69.0,,0
+Azerbaijan,Air defence systems,2010,5,335.0,,,,,,weapon,0,0,0,15.0,,0
+Azerbaijan,Aircraft,1996,20,1438.1399999999999,,,2010.0,,,platform,0,0,0,29.0,,0
+Azerbaijan,Armoured vehicles,1993,27,1198.55,,,2009.0,2022.0,1.0,platform,0,0,1,29.0,,0
+Azerbaijan,Artillery,2002,32,461.71,,,,,,weapon,0,0,0,23.0,,0
+Azerbaijan,Engines,2023,1,6.0,,,,,,subsystem,0,0,0,2.0,,0
+Azerbaijan,Missiles,2005,36,1018.15,2016.0,1.0,2016.0,,,weapon,1,0,0,20.0,9.0,1
+Azerbaijan,Satellites,2023,1,0.0,,,,,,subsystem,0,0,0,2.0,,0
+Azerbaijan,Sensors,2012,5,64.5,,,,,,subsystem,0,0,0,13.0,,0
+Azerbaijan,Ships,2000,3,390.4,2013.0,1.0,2013.0,,,platform,1,0,0,25.0,12.0,1
+Bahamas,Aircraft,1989,4,6.1,,,,2015.0,1.0,platform,0,0,1,26.0,,0
+Bahamas,Armoured vehicles,2016,1,0.3,,,,,,platform,0,0,0,9.0,,0
+Bahamas,Ships,1977,7,156.7,,,,,,platform,0,0,0,48.0,,0
+Bahrain,Air defence systems,1994,3,139.0,,,,,,weapon,0,0,0,31.0,,0
+Bahrain,Aircraft,1972,23,1918.98,,,,2000.0,1.0,platform,0,0,1,28.0,,0
+Bahrain,Anti-submarine warfare weapons,1997,1,2.52,,,,,,weapon,0,0,0,28.0,,0
+Bahrain,Armoured vehicles,1970,36,457.63,,,2009.0,,,platform,0,0,0,55.0,,0
+Bahrain,Artillery,1979,11,107.89999999999999,,,,,,weapon,0,0,0,46.0,,0
+Bahrain,Engines,1985,3,6.4,,,,,,subsystem,0,0,0,40.0,,0
+Bahrain,Missiles,1979,41,806.18,,,,,,weapon,0,0,0,46.0,,0
+Bahrain,Sensors,1979,13,167.0,,,,,,subsystem,0,0,0,46.0,,0
+Bahrain,Ships,1979,13,711.02,,,,,,platform,0,0,0,46.0,,0
+Bangladesh,Air defence systems,2004,6,109.5,,,,,,weapon,0,0,0,21.0,,0
+Bangladesh,Aircraft,1971,73,2132.34,2025.0,1.0,2025.0,1984.0,1.0,platform,1,0,1,13.0,-41.0,0
+Bangladesh,Anti-submarine warfare weapons,1998,2,47.5,,,,,,weapon,0,0,0,27.0,,0
+Bangladesh,Armoured vehicles,1971,25,1362.5,,,,,,platform,0,0,0,54.0,,0
+Bangladesh,Artillery,1971,17,286.65,,,,,,weapon,0,0,0,54.0,,0
+Bangladesh,Engines,1995,13,110.9,,,,,,subsystem,0,0,0,30.0,,0
+Bangladesh,Missiles,1972,39,428.04,,,2020.0,,,weapon,0,0,0,53.0,,0
+Bangladesh,Naval weapons,1983,4,13.15,,,,,,weapon,0,0,0,42.0,,0
+Bangladesh,Sensors,1990,16,209.75,,,,,,subsystem,0,0,0,35.0,,0
+Bangladesh,Ships,1973,38,2558.74,2011.0,4.0,2011.0,,,platform,1,0,0,52.0,14.0,1
+Barbados,Aircraft,1984,1,0.95,,,,,,platform,0,0,0,41.0,,0
+Barbados,Ships,1980,2,39.3,,,,,,platform,0,0,0,45.0,,0
+Belarus,Air defence systems,2005,8,748.2,,,2020.0,2005.0,6.0,weapon,0,1,0,20.0,,0
+Belarus,Aircraft,1996,10,1200.78,,,,1994.0,42.0,platform,0,1,0,29.0,,0
+Belarus,Armoured vehicles,2015,4,208.1,,,2020.0,1993.0,32.0,platform,0,1,0,10.0,,0
+Belarus,Artillery,2013,3,23.0,2013.0,1.0,2013.0,1997.0,23.0,weapon,1,1,0,12.0,12.0,0
+Belarus,Engines,2012,3,11.17,2024.0,1.0,2024.0,2009.0,1.0,subsystem,1,1,0,13.0,1.0,0
+Belarus,Missiles,2005,12,431.32,,,2024.0,1996.0,12.0,weapon,0,1,0,20.0,,0
+Belarus,Sensors,2014,1,91.0,,,,2010.0,2.0,subsystem,0,1,0,11.0,,0
+Belgium,Air defence systems,1955,8,1195.0,,,,2004.0,1.0,weapon,0,0,1,49.0,,0
+Belgium,Aircraft,1946,75,12154.31,1949.0,8.0,1949.0,1954.0,34.0,platform,1,0,1,8.0,5.0,1
+Belgium,Anti-submarine warfare weapons,1973,4,79.75,,,,,,weapon,0,0,0,52.0,,0
+Belgium,Armoured vehicles,1948,33,3698.7200000000003,1962.0,7.0,1962.0,1959.0,55.0,platform,1,0,1,11.0,-3.0,0
+Belgium,Artillery,1951,15,373.96,,,1983.0,1999.0,5.0,weapon,0,0,1,48.0,,0
+Belgium,Engines,1956,9,174.2,,,,,,subsystem,0,0,0,69.0,,0
+Belgium,Missiles,1955,42,725.62,,,1968.0,2007.0,9.0,weapon,0,0,1,52.0,,0
+Belgium,Naval weapons,1973,2,20.0,,,,,,weapon,0,0,0,52.0,,0
+Belgium,Sensors,1956,22,384.35,1989.0,1.0,1989.0,,,subsystem,1,0,0,69.0,36.0,1
+Belgium,Ships,1950,12,893.0600000000001,1952.0,2.0,1952.0,1966.0,7.0,platform,1,0,1,16.0,14.0,1
+Belize,Aircraft,1982,6,4.5200000000000005,,,,,,platform,0,0,0,43.0,,0
+Benin,Aircraft,1960,22,62.39,,,,,,platform,0,0,0,65.0,,0
+Benin,Armoured vehicles,1963,14,28.11,,,,,,platform,0,0,0,62.0,,0
+Benin,Artillery,1965,3,3.64,,,,,,weapon,0,0,0,60.0,,0
+Benin,Engines,2024,1,0.36,,,,,,subsystem,0,0,0,1.0,,0
+Benin,Ships,1978,2,25.1,,,,,,platform,0,0,0,47.0,,0
+Bhutan,Aircraft,1968,2,2.65,,,,,,platform,0,0,0,57.0,,0
+Bhutan,Armoured vehicles,2003,2,4.61,,,,,,platform,0,0,0,22.0,,0
+Bolivia,Aircraft,1948,89,575.16,,,2012.0,,,platform,0,0,0,77.0,,0
+Bolivia,Armoured vehicles,1967,13,93.63,,,,,,platform,0,0,0,58.0,,0
+Bolivia,Artillery,1960,3,19.08,,,,,,weapon,0,0,0,65.0,,0
+Bolivia,Engines,1979,3,12.0,,,,,,subsystem,0,0,0,46.0,,0
+Bolivia,Missiles,1995,2,6.5,,,,,,weapon,0,0,0,30.0,,0
+Bolivia,Sensors,2016,2,60.0,,,,,,subsystem,0,0,0,9.0,,0
+Bosnia and Herzegovina,Aircraft,1996,5,28.37,,,,,,platform,0,0,0,29.0,,0
+Bosnia and Herzegovina,Armoured vehicles,1993,9,108.85,,,,2002.0,2.0,platform,0,0,1,9.0,,0
+Bosnia and Herzegovina,Artillery,1993,7,49.56,,,,2009.0,4.0,weapon,0,0,1,16.0,,0
+Bosnia and Herzegovina,Missiles,1993,2,3.5,,,,,,weapon,0,0,0,32.0,,0
+Botswana,Air defence systems,1989,2,28.2,,,,,,weapon,0,0,0,36.0,,0
+Botswana,Aircraft,1977,28,283.02,,,,,,platform,0,0,0,48.0,,0
+Botswana,Armoured vehicles,1980,14,119.2,,,,,,platform,0,0,0,45.0,,0
+Botswana,Artillery,1980,3,14.3,,,,,,weapon,0,0,0,45.0,,0
+Botswana,Engines,1986,5,10.45,,,,,,subsystem,0,0,0,39.0,,0
+Botswana,Missiles,1981,8,50.6,,,,,,weapon,0,0,0,44.0,,0
+Botswana,Sensors,1985,1,5.0,,,,,,subsystem,0,0,0,40.0,,0
+Brazil,Air defence systems,1970,5,220.9,,,,,,weapon,0,0,0,55.0,,0
+Brazil,Aircraft,1952,140,6251.16,1955.0,6.0,1955.0,1960.0,115.0,platform,1,0,1,8.0,5.0,1
+Brazil,Anti-submarine warfare weapons,1966,10,458.95,,,,,,weapon,0,0,0,59.0,,0
+Brazil,Armoured vehicles,1954,45,1169.65,2009.0,4.0,2008.0,1973.0,45.0,platform,1,0,1,19.0,-36.0,0
+Brazil,Artillery,1950,21,262.7,,,,1981.0,10.0,weapon,0,0,1,31.0,,0
+Brazil,Engines,1967,31,561.12,1978.0,3.0,1978.0,,,subsystem,1,0,0,58.0,47.0,1
+Brazil,Missiles,1966,44,543.04,,,2011.0,2008.0,4.0,weapon,0,0,1,42.0,,0
+Brazil,Naval weapons,1940,5,37.2,,,,,,weapon,0,0,0,85.0,,0
+Brazil,Sensors,1957,49,1281.03,,,2004.0,1991.0,1.0,subsystem,0,0,1,34.0,,0
+Brazil,Ships,1940,53,7421.05,1940.0,7.0,1940.0,1982.0,3.0,platform,1,0,1,42.0,42.0,1
+Brunei,Air defence systems,1979,1,84.0,,,,,,weapon,0,0,0,46.0,,0
+Brunei,Aircraft,1964,22,258.64,,,,2014.0,1.0,platform,0,0,1,50.0,,0
+Brunei,Armoured vehicles,1965,7,33.83,,,,,,platform,0,0,0,60.0,,0
+Brunei,Engines,1976,5,13.17,,,,,,subsystem,0,0,0,49.0,,0
+Brunei,Missiles,1970,7,70.8,,,,,,weapon,0,0,0,55.0,,0
+Brunei,Naval weapons,2007,2,10.0,,,,,,weapon,0,0,0,18.0,,0
+Brunei,Sensors,1979,5,48.0,,,,,,subsystem,0,0,0,46.0,,0
+Brunei,Ships,1964,8,437.79999999999995,,,,2010.0,1.0,platform,0,0,1,46.0,,0
+Bulgaria,Air defence systems,1960,12,2344.1,,,,,,weapon,0,0,0,65.0,,0
+Bulgaria,Aircraft,1949,64,7869.3,,,,1986.0,21.0,platform,0,0,1,37.0,,0
+Bulgaria,Armoured vehicles,1950,28,5008.03,1970.0,1.0,1970.0,1982.0,27.0,platform,1,0,1,32.0,12.0,1
+Bulgaria,Artillery,1949,13,920.75,1984.0,2.0,1984.0,1988.0,43.0,weapon,1,0,1,39.0,4.0,1
+Bulgaria,Engines,1985,5,34.46,,,,,,subsystem,0,0,0,40.0,,0
+Bulgaria,Missiles,1959,60,1922.55,1985.0,3.0,1985.0,1983.0,11.0,weapon,1,0,1,24.0,-2.0,0
+Bulgaria,Naval weapons,1986,2,4.75,,,,,,weapon,0,0,0,39.0,,0
+Bulgaria,Sensors,1960,14,276.0,,,,,,subsystem,0,0,0,65.0,,0
+Bulgaria,Ships,1951,37,2377.45,2020.0,1.0,2020.0,2001.0,1.0,platform,1,0,1,50.0,-19.0,0
+Burkina Faso,Aircraft,1963,35,165.91,,,,,,platform,0,0,0,62.0,,0
+Burkina Faso,Armoured vehicles,1960,28,114.49,,,,,,platform,0,0,0,65.0,,0
+Burkina Faso,Artillery,1974,7,28.04,,,,,,weapon,0,0,0,51.0,,0
+Burkina Faso,Engines,2010,5,4.47,,,,,,subsystem,0,0,0,15.0,,0
+Burkina Faso,Missiles,1986,4,3.24,,,,,,weapon,0,0,0,39.0,,0
+Burundi,Aircraft,1966,10,25.47,,,,,,platform,0,0,0,59.0,,0
+Burundi,Armoured vehicles,1965,14,42.92,,,,,,platform,0,0,0,60.0,,0
+Burundi,Missiles,1988,1,12.2,,,,,,weapon,0,0,0,37.0,,0
+Cabo Verde,Aircraft,1982,6,40.59,,,,,,platform,0,0,0,43.0,,0
+Cabo Verde,Armoured vehicles,1976,1,1.5,,,,,,platform,0,0,0,49.0,,0
+Cabo Verde,Ships,1979,3,34.0,,,,,,platform,0,0,0,46.0,,0
+Cambodia,Air defence systems,1967,3,66.42,,,,,,weapon,0,0,0,58.0,,0
+Cambodia,Aircraft,1954,66,822.39,,,,,,platform,0,0,0,71.0,,0
+Cambodia,Armoured vehicles,1953,29,312.5,,,,,,platform,0,0,0,72.0,,0
+Cambodia,Artillery,1963,19,86.34,,,,1999.0,1.0,weapon,0,0,1,36.0,,0
+Cambodia,Engines,2012,1,3.0,,,,,,subsystem,0,0,0,13.0,,0
+Cambodia,Missiles,1978,12,65.18,,,,1993.0,2.0,weapon,0,0,1,15.0,,0
+Cambodia,Sensors,1964,2,4.98,,,,,,subsystem,0,0,0,61.0,,0
+Cambodia,Ships,1954,16,287.94,,,,,,platform,0,0,0,71.0,,0
+Cameroon,Air defence systems,1981,2,22.5,,,,,,weapon,0,0,0,44.0,,0
+Cameroon,Aircraft,1960,44,414.91,,,,,,platform,0,0,0,65.0,,0
+Cameroon,Armoured vehicles,1961,24,96.1,,,,,,platform,0,0,0,64.0,,0
+Cameroon,Artillery,1966,9,43.0,,,,,,weapon,0,0,0,59.0,,0
+Cameroon,Engines,2011,3,4.5,,,,,,subsystem,0,0,0,14.0,,0
+Cameroon,Missiles,1980,6,21.9,,,,,,weapon,0,0,0,45.0,,0
+Cameroon,Sensors,1981,4,117.5,,,,,,subsystem,0,0,0,44.0,,0
+Cameroon,Ships,1974,6,126.12,,,,,,platform,0,0,0,51.0,,0
+Canada,Air defence systems,1986,5,495.0,,,1986.0,,,weapon,0,0,0,39.0,,0
+Canada,Aircraft,1947,111,22343.15,1949.0,5.0,1949.0,1948.0,222.0,platform,1,0,1,1.0,-1.0,0
+Canada,Anti-submarine warfare weapons,1950,11,546.2,1962.0,1.0,1962.0,,,weapon,1,0,0,75.0,63.0,1
+Canada,Armoured vehicles,1945,36,2671.59,1977.0,6.0,1977.0,1954.0,67.0,platform,1,0,1,9.0,-23.0,0
+Canada,Artillery,1953,10,325.15000000000003,,,,1954.0,5.0,weapon,0,0,1,1.0,,0
+Canada,Engines,1947,20,949.61,1961.0,2.0,1961.0,1954.0,257.0,subsystem,1,0,1,7.0,-7.0,0
+Canada,Missiles,1955,56,1800.8899999999999,,,2001.0,1993.0,8.0,weapon,0,0,1,38.0,,0
+Canada,Naval weapons,1950,14,324.34,,,,1950.0,2.0,weapon,0,1,0,75.0,,0
+Canada,Sensors,1950,38,2181.5,1952.0,2.0,1952.0,1960.0,35.0,subsystem,1,0,1,10.0,8.0,1
+Canada,Ships,1952,9,1794.18,2004.0,3.0,2004.0,1950.0,15.0,platform,1,1,0,73.0,21.0,0
+Central African Republic,Aircraft,1961,19,122.3,,,,,,platform,0,0,0,64.0,,0
+Central African Republic,Armoured vehicles,1972,12,14.81,,,,,,platform,0,0,0,53.0,,0
+Central African Republic,Artillery,1982,1,0.4,,,,,,weapon,0,0,0,43.0,,0
+Chad,Aircraft,1960,42,339.44,,,,1987.0,1.0,platform,0,0,1,27.0,,0
+Chad,Armoured vehicles,1973,34,330.47,,,,1987.0,1.0,platform,0,0,1,14.0,,0
+Chad,Artillery,1970,5,14.4,,,,,,weapon,0,0,0,55.0,,0
+Chad,Engines,2006,4,7.859999999999999,,,,,,subsystem,0,0,0,19.0,,0
+Chad,Missiles,1983,7,14.45,,,,,,weapon,0,0,0,42.0,,0
+Chile,Air defence systems,1981,5,253.16,,,,,,weapon,0,0,0,44.0,,0
+Chile,Aircraft,1949,173,3753.57,1980.0,3.0,1979.0,1975.0,16.0,platform,1,0,1,26.0,-5.0,0
+Chile,Anti-submarine warfare weapons,1968,4,276.0,,,,,,weapon,0,0,0,57.0,,0
+Chile,Armoured vehicles,1950,46,1302.93,1980.0,1.0,1980.0,,,platform,1,0,0,75.0,45.0,1
+Chile,Artillery,1960,11,110.22,,,,,,weapon,0,0,0,65.0,,0
+Chile,Engines,1974,18,110.99,,,,,,subsystem,0,0,0,51.0,,0
+Chile,Missiles,1962,55,783.38,,,,,,weapon,0,0,0,63.0,,0
+Chile,Naval weapons,2001,2,5.55,,,,,,weapon,0,0,0,24.0,,0
+Chile,Sensors,1963,16,361.0,,,,,,subsystem,0,0,0,62.0,,0
+Chile,Ships,1951,61,5324.7,1970.0,7.0,1970.0,1992.0,3.0,platform,1,0,1,41.0,22.0,1
+China,Air defence systems,1958,13,3477.85,1978.0,2.0,1958.0,1970.0,43.0,weapon,1,0,1,12.0,-8.0,0
+China,Aircraft,1949,77,43769.92,1949.0,8.0,1949.0,1956.0,264.0,platform,1,0,1,7.0,7.0,1
+China,Anti-submarine warfare weapons,1958,7,780.0,1958.0,1.0,1958.0,2013.0,3.0,weapon,1,0,1,55.0,55.0,1
+China,Armoured vehicles,1949,9,5615.75,1954.0,1.0,1954.0,1953.0,236.0,platform,1,0,1,4.0,-1.0,0
+China,Artillery,1949,11,1655.82,1949.0,1.0,1949.0,1963.0,137.0,weapon,1,0,1,14.0,14.0,1
+China,Engines,1965,42,8792.68,1969.0,17.0,1969.0,2015.0,2.0,subsystem,1,0,1,50.0,46.0,1
+China,Missiles,1958,41,6602.74,1978.0,1.0,1958.0,1964.0,217.0,weapon,1,0,1,6.0,-14.0,0
+China,Naval weapons,1953,5,322.5,2004.0,2.0,2004.0,1991.0,10.0,weapon,1,0,1,38.0,-13.0,0
+China,Sensors,1957,23,2238.75,1986.0,8.0,1986.0,1964.0,65.0,subsystem,1,0,1,7.0,-22.0,0
+China,Ships,1951,27,9854.1,1954.0,4.0,1951.0,1956.0,126.0,platform,1,0,1,5.0,2.0,1
+Colombia,Air defence systems,2023,1,0.0,,,,,,weapon,0,0,0,2.0,,0
+Colombia,Aircraft,1948,172,3343.43,,,2009.0,2002.0,2.0,platform,0,0,1,54.0,,0
+Colombia,Anti-submarine warfare weapons,1967,4,100.25,,,,,,weapon,0,0,0,58.0,,0
+Colombia,Armoured vehicles,1970,16,194.77,,,,2012.0,1.0,platform,0,0,1,42.0,,0
+Colombia,Artillery,1960,9,111.79,,,,,,weapon,0,0,0,65.0,,0
+Colombia,Engines,1954,17,97.4,,,,,,subsystem,0,0,0,71.0,,0
+Colombia,Missiles,1971,26,245.3,,,,,,weapon,0,0,0,54.0,,0
+Colombia,Naval weapons,1952,8,37.1,,,,,,weapon,0,0,0,73.0,,0
+Colombia,Sensors,1954,32,400.5,,,,,,subsystem,0,0,0,71.0,,0
+Colombia,Ships,1952,38,1831.92,2008.0,4.0,2008.0,2016.0,2.0,platform,1,0,1,64.0,8.0,1
+Comoros,Aircraft,1976,5,9.66,,,,1980.0,1.0,platform,0,0,1,4.0,,0
+Comoros,Armoured vehicles,2025,1,0.13,,,,,,platform,0,0,0,0.0,,0
+Costa Rica,Aircraft,1954,14,22.8,,,,1969.0,3.0,platform,0,0,1,15.0,,0
+Costa Rica,Armoured vehicles,1983,3,1.08,,,,,,platform,0,0,0,42.0,,0
+Costa Rica,Ships,1977,2,7.0600000000000005,,,,,,platform,0,0,0,48.0,,0
+Cote d'Ivoire,Air defence systems,1979,2,8.7,,,,,,weapon,0,0,0,46.0,,0
+Cote d'Ivoire,Aircraft,1961,40,287.07,,,,1971.0,1.0,platform,0,0,1,10.0,,0
+Cote d'Ivoire,Armoured vehicles,1961,29,110.7,,,,,,platform,0,0,0,64.0,,0
+Cote d'Ivoire,Artillery,1971,5,5.0600000000000005,,,,,,weapon,0,0,0,54.0,,0
+Cote d'Ivoire,Engines,2018,3,1.98,,,,,,subsystem,0,0,0,7.0,,0
+Cote d'Ivoire,Missiles,1977,2,0.66,,,,,,weapon,0,0,0,48.0,,0
+Cote d'Ivoire,Ships,1961,10,114.19999999999999,,,,,,platform,0,0,0,64.0,,0
+Croatia,Aircraft,1992,20,600.62,,,,2017.0,4.0,platform,0,0,1,25.0,,0
+Croatia,Armoured vehicles,2006,12,91.78,2007.0,2.0,2007.0,2024.0,2.0,platform,1,0,1,18.0,17.0,1
+Croatia,Artillery,1992,4,21.8,,,,2000.0,4.0,weapon,0,0,1,8.0,,0
+Croatia,Engines,1996,1,5.95,,,,,,subsystem,0,0,0,29.0,,0
+Croatia,Missiles,1993,9,36.4,,,,,,weapon,0,0,0,32.0,,0
+Croatia,Naval weapons,1989,1,1.0,,,,,,weapon,0,0,0,36.0,,0
+Croatia,Sensors,1998,2,59.0,,,,,,subsystem,0,0,0,27.0,,0
+Croatia,Ships,2008,1,44.0,,,,2024.0,1.0,platform,0,0,1,16.0,,0
+Cuba,Air defence systems,1960,6,1121.38,,,,,,weapon,0,0,0,65.0,,0
+Cuba,Aircraft,1950,48,5013.07,,,,1957.0,4.0,platform,0,0,1,7.0,,0
+Cuba,Anti-submarine warfare weapons,1982,4,17.5,,,,,,weapon,0,0,0,43.0,,0
+Cuba,Armoured vehicles,1956,24,2583.48,,,,,,platform,0,0,0,69.0,,0
+Cuba,Artillery,1960,15,290.32,,,,,,weapon,0,0,0,65.0,,0
+Cuba,Engines,1981,1,18.0,,,,,,subsystem,0,0,0,44.0,,0
+Cuba,Missiles,1960,31,970.9300000000001,,,,,,weapon,0,0,0,65.0,,0
+Cuba,Sensors,1982,4,20.5,,,,,,subsystem,0,0,0,43.0,,0
+Cuba,Ships,1961,21,1905.2,,,,,,platform,0,0,0,64.0,,0
+Cyprus,Air defence systems,1987,4,244.5,,,,,,weapon,0,0,0,38.0,,0
+Cyprus,Aircraft,1964,17,195.06,,,,1995.0,2.0,platform,0,0,1,31.0,,0
+Cyprus,Armoured vehicles,1964,27,703.95,,,,,,platform,0,0,0,61.0,,0
+Cyprus,Artillery,1965,10,121.76,,,,,,weapon,0,0,0,60.0,,0
+Cyprus,Engines,1987,2,1.4,,,,,,subsystem,0,0,0,38.0,,0
+Cyprus,Missiles,1972,21,309.26,,,,,,weapon,0,0,0,53.0,,0
+Cyprus,Sensors,1980,2,33.5,,,,,,subsystem,0,0,0,45.0,,0
+Cyprus,Ships,1964,8,84.52,,,,,,platform,0,0,0,61.0,,0
+Czechia,Air defence systems,1957,10,1967.4,2021.0,1.0,2021.0,1965.0,4.0,weapon,1,0,1,8.0,-56.0,0
+Czechia,Aircraft,1949,57,15735.93,1949.0,7.0,1949.0,1949.0,121.0,platform,1,1,0,76.0,76.0,0
+Czechia,Armoured vehicles,1949,35,10294.789999999999,1949.0,9.0,1949.0,1946.0,80.0,platform,1,1,0,76.0,76.0,0
+Czechia,Artillery,1979,7,247.9,2021.0,2.0,2021.0,1953.0,50.0,weapon,1,1,0,46.0,4.0,0
+Czechia,Engines,1970,12,178.07,,,,1991.0,7.0,subsystem,0,0,1,21.0,,0
+Czechia,Missiles,1957,60,1897.99,1969.0,2.0,1969.0,2022.0,3.0,weapon,1,0,1,65.0,53.0,1
+Czechia,Sensors,1956,26,618.0,,,2019.0,1978.0,11.0,subsystem,0,0,1,22.0,,0
+DR Congo,Aircraft,1960,77,1187.07,,,,1978.0,2.0,platform,0,0,1,18.0,,0
+DR Congo,Armoured vehicles,1959,28,510.08,,,2024.0,,,platform,0,0,0,66.0,,0
+DR Congo,Artillery,1972,15,57.53,,,,,,weapon,0,0,0,53.0,,0
+DR Congo,Engines,1969,5,11.6,,,,,,subsystem,0,0,0,56.0,,0
+DR Congo,Missiles,1995,2,0.8,,,,,,weapon,0,0,0,30.0,,0
+DR Congo,Sensors,1980,1,19.0,,,,,,subsystem,0,0,0,45.0,,0
+DR Congo,Ships,1973,5,96.0,,,,,,platform,0,0,0,52.0,,0
+Denmark,Air defence systems,1958,11,557.0,,,,,,weapon,0,0,0,67.0,,0
+Denmark,Aircraft,1948,61,6258.13,,,1975.0,1981.0,9.0,platform,0,0,1,33.0,,0
+Denmark,Anti-submarine warfare weapons,1999,2,29.0,,,,,,weapon,0,0,0,26.0,,0
+Denmark,Armoured vehicles,1951,45,1576.5900000000001,1997.0,1.0,1997.0,2022.0,2.0,platform,1,0,1,71.0,25.0,1
+Denmark,Artillery,1950,11,249.66,1960.0,1.0,1960.0,2001.0,3.0,weapon,1,0,1,51.0,41.0,1
+Denmark,Engines,1960,18,381.09000000000003,,,,1986.0,8.0,subsystem,0,0,1,26.0,,0
+Denmark,Missiles,1956,57,1093.84,,,1962.0,2012.0,9.0,weapon,0,0,1,56.0,,0
+Denmark,Naval weapons,1963,5,56.03,,,,2007.0,1.0,weapon,0,0,1,44.0,,0
+Denmark,Sensors,1960,42,1294.5,,,,2005.0,29.0,subsystem,0,0,1,45.0,,0
+Denmark,Ships,1951,13,1223.81,1960.0,3.0,1960.0,1958.0,24.0,platform,1,0,1,7.0,-2.0,0
+Djibouti,Aircraft,1977,25,90.21,,,,,,platform,0,0,0,48.0,,0
+Djibouti,Armoured vehicles,1978,17,64.28999999999999,,,,,,platform,0,0,0,47.0,,0
+Djibouti,Artillery,1980,4,13.040000000000001,,,,,,weapon,0,0,0,45.0,,0
+Djibouti,Engines,2013,1,1.5,,,,,,subsystem,0,0,0,12.0,,0
+Djibouti,Missiles,2018,1,0.48,,,,,,weapon,0,0,0,7.0,,0
+Djibouti,Ships,2010,5,63.6,,,,,,platform,0,0,0,15.0,,0
+Dominican Republic,Aircraft,1950,61,299.52,,,2022.0,2017.0,2.0,platform,0,0,1,67.0,,0
+Dominican Republic,Armoured vehicles,1949,8,29.44,,,,,,platform,0,0,0,76.0,,0
+Dominican Republic,Artillery,1958,2,9.96,,,,,,weapon,0,0,0,67.0,,0
+Dominican Republic,Engines,2008,1,4.0,,,,,,subsystem,0,0,0,17.0,,0
+Dominican Republic,Sensors,2010,2,33.0,,,,,,subsystem,0,0,0,15.0,,0
+Dominican Republic,Ships,1959,16,101.25999999999999,,,,,,platform,0,0,0,66.0,,0
+East Germany,Air defence systems,1957,10,3575.44,,,,,,weapon,0,0,0,68.0,,0
+East Germany,Aircraft,1949,46,11567.59,1955.0,1.0,1955.0,1963.0,6.0,platform,1,0,1,14.0,8.0,1
+East Germany,Anti-submarine warfare weapons,1980,1,38.4,,,,,,weapon,0,0,0,45.0,,0
+East Germany,Armoured vehicles,1952,31,7698.78,1958.0,1.0,1958.0,1977.0,5.0,platform,1,0,1,25.0,19.0,1
+East Germany,Artillery,1952,20,1458.3799999999999,,,,1982.0,1.0,weapon,0,0,1,30.0,,0
+East Germany,Engines,1972,3,97.53,,,,,,subsystem,0,0,0,53.0,,0
+East Germany,Missiles,1959,55,3663.67,1978.0,1.0,1978.0,,,weapon,1,0,0,66.0,47.0,1
+East Germany,Naval weapons,1973,3,68.0,,,,,,weapon,0,0,0,52.0,,0
+East Germany,Sensors,1957,16,490.5,,,,,,subsystem,0,0,0,68.0,,0
+East Germany,Ships,1950,16,2132.5,,,,1958.0,4.0,platform,0,0,1,8.0,,0
+Ecuador,Air defence systems,1978,3,53.2,,,,,,weapon,0,0,0,47.0,,0
+Ecuador,Aircraft,1953,110,1893.97,,,,2014.0,2.0,platform,0,0,1,61.0,,0
+Ecuador,Anti-submarine warfare weapons,1974,2,84.0,,,,,,weapon,0,0,0,51.0,,0
+Ecuador,Armoured vehicles,1960,15,219.69,,,,,,platform,0,0,0,65.0,,0
+Ecuador,Artillery,1971,12,73.41,,,,,,weapon,0,0,0,54.0,,0
+Ecuador,Engines,1979,8,85.53999999999999,,,,,,subsystem,0,0,0,46.0,,0
+Ecuador,Missiles,1974,22,240.9,,,,,,weapon,0,0,0,51.0,,0
+Ecuador,Naval weapons,1974,5,29.5,,,,,,weapon,0,0,0,51.0,,0
+Ecuador,Sensors,1974,17,249.46,,,,,,subsystem,0,0,0,51.0,,0
+Ecuador,Ships,1954,24,1458.3999999999999,2011.0,3.0,2011.0,,,platform,1,0,0,71.0,14.0,1
+Egypt,Air defence systems,1960,36,6330.92,,,,1977.0,2.0,weapon,0,0,1,17.0,,0
+Egypt,Aircraft,1948,142,30978.97,1949.0,3.0,1949.0,1955.0,24.0,platform,1,0,1,7.0,6.0,1
+Egypt,Anti-submarine warfare weapons,1980,9,422.0,,,,,,weapon,0,0,0,45.0,,0
+Egypt,Armoured vehicles,1953,107,14669.81,1978.0,12.0,1978.0,1958.0,34.0,platform,1,0,1,5.0,-20.0,0
+Egypt,Artillery,1953,33,1794.38,1985.0,5.0,1985.0,1978.0,14.0,weapon,1,0,1,25.0,-7.0,0
+Egypt,Engines,1978,24,356.3,,,,,,subsystem,0,0,0,47.0,,0
+Egypt,Missiles,1960,134,5658.37,1977.0,1.0,1977.0,1977.0,8.0,weapon,1,0,1,17.0,0.0,0
+Egypt,Naval weapons,1978,9,100.23,,,,,,weapon,0,0,0,47.0,,0
+Egypt,Satellites,2009,2,100.0,,,,,,subsystem,0,0,0,16.0,,0
+Egypt,Sensors,1955,78,2632.56,,,1985.0,,,subsystem,0,0,0,70.0,,0
+Egypt,Ships,1948,78,9935.94,1971.0,5.0,1971.0,1962.0,1.0,platform,1,0,1,14.0,-9.0,0
+El Salvador,Aircraft,1950,63,393.6,,,,,,platform,0,0,0,75.0,,0
+El Salvador,Armoured vehicles,1970,7,31.759999999999998,,,1985.0,,,platform,0,0,0,55.0,,0
+El Salvador,Artillery,1955,8,36.7,,,,,,weapon,0,0,0,70.0,,0
+El Salvador,Ships,1974,3,22.35,,,,,,platform,0,0,0,51.0,,0
+Equatorial Guinea,Aircraft,1980,14,119.75999999999999,,,,,,platform,0,0,0,45.0,,0
+Equatorial Guinea,Armoured vehicles,1979,5,21.17,,,,,,platform,0,0,0,46.0,,0
+Equatorial Guinea,Artillery,2017,1,3.6,,,,,,weapon,0,0,0,8.0,,0
+Equatorial Guinea,Engines,2008,2,10.5,,,,,,subsystem,0,0,0,17.0,,0
+Equatorial Guinea,Missiles,2020,1,0.25,,,,,,weapon,0,0,0,5.0,,0
+Equatorial Guinea,Naval weapons,2008,2,2.1,,,,,,weapon,0,0,0,17.0,,0
+Equatorial Guinea,Ships,1977,8,257.7,,,,,,platform,0,0,0,48.0,,0
+Eritrea,Air defence systems,2005,1,23.1,,,,,,weapon,0,0,0,20.0,,0
+Eritrea,Aircraft,1992,12,480.6,,,,,,platform,0,0,0,33.0,,0
+Eritrea,Armoured vehicles,2004,2,61.0,,,,1999.0,1.0,platform,0,1,0,21.0,,0
+Eritrea,Artillery,1999,6,33.74,,,,,,weapon,0,0,0,26.0,,0
+Eritrea,Engines,1996,1,2.4,,,,,,subsystem,0,0,0,29.0,,0
+Eritrea,Missiles,1995,8,40.06,,,,1998.0,2.0,weapon,0,0,1,3.0,,0
+Eritrea,Sensors,1999,1,2.8,,,,,,subsystem,0,0,0,26.0,,0
+Eritrea,Ships,1992,2,38.0,,,,,,platform,0,0,0,33.0,,0
+Estonia,Air defence systems,2023,1,0.0,,,,,,weapon,0,0,0,2.0,,0
+Estonia,Aircraft,1993,5,16.080000000000002,,,,,,platform,0,0,0,32.0,,0
+Estonia,Armoured vehicles,1993,12,159.63,,,,2022.0,2.0,platform,0,0,1,29.0,,0
+Estonia,Artillery,1996,12,108.3,,,2025.0,2015.0,5.0,weapon,0,0,1,19.0,,0
+Estonia,Engines,2023,1,9.2,,,,,,subsystem,0,0,0,2.0,,0
+Estonia,Missiles,1993,22,284.45,,,,2021.0,4.0,weapon,0,0,1,28.0,,0
+Estonia,Sensors,1996,7,94.1,,,,,,subsystem,0,0,0,29.0,,0
+Estonia,Ships,1992,11,117.88,,,,1996.0,1.0,platform,0,0,1,4.0,,0
+Eswatini,Aircraft,1979,3,8.74,,,,,,platform,0,0,0,46.0,,0
+Eswatini,Armoured vehicles,1999,1,1.26,,,,,,platform,0,0,0,26.0,,0
+Ethiopia,Air defence systems,1976,6,964.89,,,,,,weapon,0,0,0,49.0,,0
+Ethiopia,Aircraft,1950,84,3746.83,,,,1985.0,2.0,platform,0,0,1,35.0,,0
+Ethiopia,Armoured vehicles,1948,47,1700.47,,,2012.0,,,platform,0,0,0,77.0,,0
+Ethiopia,Artillery,1970,25,433.11,,,,,,weapon,0,0,0,55.0,,0
+Ethiopia,Engines,1965,3,21.0,,,,,,subsystem,0,0,0,60.0,,0
+Ethiopia,Missiles,1965,18,357.9,,,,,,weapon,0,0,0,60.0,,0
+Ethiopia,Sensors,1977,3,139.0,,,,,,subsystem,0,0,0,48.0,,0
+Ethiopia,Ships,1957,17,454.2,,,,1987.0,2.0,platform,0,0,1,30.0,,0
+Fiji,Aircraft,1990,2,4.55,,,,1984.0,1.0,platform,0,1,0,35.0,,0
+Fiji,Armoured vehicles,2017,2,3.36,,,,,,platform,0,0,0,8.0,,0
+Fiji,Ships,1975,4,51.0,,,,,,platform,0,0,0,50.0,,0
+Finland,Air defence systems,1958,13,723.98,,,2009.0,,,weapon,0,0,0,67.0,,0
+Finland,Aircraft,1951,52,4317.57,1958.0,1.0,1958.0,1992.0,4.0,platform,1,0,1,41.0,34.0,1
+Finland,Anti-submarine warfare weapons,2017,3,10.0,,,,,,weapon,0,0,0,8.0,,0
+Finland,Armoured vehicles,1956,33,1304.08,,,2000.0,1987.0,45.0,platform,0,0,1,31.0,,0
+Finland,Artillery,1963,15,377.5,,,,1960.0,12.0,weapon,0,1,0,62.0,,0
+Finland,Engines,1970,12,85.63,,,,1985.0,27.0,subsystem,0,0,1,15.0,,0
+Finland,Missiles,1961,67,1298.1100000000001,,,,,,weapon,0,0,0,64.0,,0
+Finland,Naval weapons,1965,6,35.49,,,,,,weapon,0,0,0,60.0,,0
+Finland,Sensors,1956,37,1033.9,1997.0,1.0,1997.0,,,subsystem,1,0,0,69.0,28.0,1
+Finland,Ships,1962,4,292.9,,,,1953.0,14.0,platform,0,1,0,63.0,,0
+France,Air defence systems,1956,4,1115.0,,,,1964.0,70.0,weapon,0,0,1,8.0,,0
+France,Aircraft,1949,125,13803.85,1949.0,6.0,1949.0,1949.0,920.0,platform,1,1,0,76.0,76.0,0
+France,Anti-submarine warfare weapons,1950,4,186.5,1963.0,1.0,1963.0,1966.0,22.0,weapon,1,0,1,16.0,3.0,1
+France,Armoured vehicles,1952,6,976.1999999999999,,,,1949.0,394.0,platform,0,1,0,73.0,,0
+France,Artillery,1985,1,121.0,,,1985.0,1950.0,130.0,weapon,0,1,0,40.0,,0
+France,Engines,1950,37,1845.7,1950.0,7.0,1950.0,1945.0,89.0,subsystem,1,1,0,75.0,75.0,0
+France,Missiles,1956,23,897.8199999999999,,,2007.0,1955.0,553.0,weapon,0,1,0,69.0,,0
+France,Naval weapons,2000,4,37.75,,,,1957.0,9.0,weapon,0,1,0,25.0,,0
+France,Sensors,1953,16,538.28,1953.0,2.0,1953.0,1948.0,258.0,subsystem,1,1,0,72.0,72.0,0
+France,Ships,1950,24,1958.1399999999999,1953.0,2.0,1953.0,1952.0,187.0,platform,1,0,1,2.0,-1.0,0
+Gabon,Air defence systems,1985,1,2.4,,,,,,weapon,0,0,0,40.0,,0
+Gabon,Aircraft,1961,38,425.35,,,,1973.0,1.0,platform,0,0,1,12.0,,0
+Gabon,Armoured vehicles,1960,25,103.07,,,,,,platform,0,0,0,65.0,,0
+Gabon,Artillery,1960,6,13.42,,,,,,weapon,0,0,0,65.0,,0
+Gabon,Engines,1989,3,2.86,,,,,,subsystem,0,0,0,36.0,,0
+Gabon,Missiles,1976,2,0.6000000000000001,,,,,,weapon,0,0,0,49.0,,0
+Gabon,Naval weapons,1985,1,2.5,,,,,,weapon,0,0,0,40.0,,0
+Gabon,Sensors,1980,1,2.5,,,,,,subsystem,0,0,0,45.0,,0
+Gabon,Ships,1974,5,79.0,,,,,,platform,0,0,0,51.0,,0
+Gambia,Aircraft,1980,3,7.699999999999999,,,,,,platform,0,0,0,45.0,,0
+Gambia,Armoured vehicles,1969,3,2.92,,,,,,platform,0,0,0,56.0,,0
+Gambia,Ships,1989,2,27.880000000000003,,,,,,platform,0,0,0,36.0,,0
+Georgia,Air defence systems,2005,3,80.0,,,,,,weapon,0,0,0,20.0,,0
+Georgia,Aircraft,1997,13,99.59,,,,1996.0,4.0,platform,0,1,0,28.0,,0
+Georgia,Armoured vehicles,1993,15,316.17,,,,2015.0,1.0,platform,0,0,1,22.0,,0
+Georgia,Artillery,2001,12,39.7,,,,,,weapon,0,0,0,24.0,,0
+Georgia,Engines,2008,1,5.6,,,,,,subsystem,0,0,0,17.0,,0
+Georgia,Missiles,1999,13,73.55,2022.0,1.0,2022.0,,,weapon,1,0,0,26.0,3.0,1
+Georgia,Sensors,2005,4,76.0,,,,,,subsystem,0,0,0,20.0,,0
+Georgia,Ships,1998,9,110.92,,,,,,platform,0,0,0,27.0,,0
+Germany,Air defence systems,1955,18,6927.16,,,,1971.0,44.0,weapon,0,0,1,16.0,,0
+Germany,Aircraft,1955,84,27954.43,1956.0,8.0,1956.0,1953.0,285.0,platform,1,1,0,70.0,69.0,0
+Germany,Anti-submarine warfare weapons,1957,6,395.0,,,,1967.0,36.0,weapon,0,0,1,10.0,,0
+Germany,Armoured vehicles,1955,35,4901.57,1957.0,14.0,1957.0,1964.0,303.0,platform,1,0,1,9.0,7.0,1
+Germany,Artillery,1955,16,1651.14,1965.0,2.0,1965.0,1962.0,34.0,weapon,1,0,1,7.0,-3.0,0
+Germany,Engines,1955,21,2155.48,1963.0,4.0,1963.0,1957.0,292.0,subsystem,1,0,1,2.0,-6.0,0
+Germany,Missiles,1956,77,8377.34,1960.0,9.0,1960.0,1960.0,104.0,weapon,1,0,1,4.0,0.0,0
+Germany,Naval weapons,1957,16,594.65,,,,,,weapon,0,0,0,68.0,,0
+Germany,Satellites,2025,1,0.0,,,,,,subsystem,0,0,0,0.0,,0
+Germany,Sensors,1955,61,3688.01,1961.0,4.0,1961.0,1975.0,69.0,subsystem,1,0,1,20.0,14.0,1
+Germany,Ships,1954,25,2684.08,,,1970.0,1952.0,235.0,platform,0,1,0,71.0,,0
+Ghana,Aircraft,1958,42,401.58,,,,1979.0,2.0,platform,0,0,1,21.0,,0
+Ghana,Armoured vehicles,1959,22,128.87,,,,,,platform,0,0,0,66.0,,0
+Ghana,Artillery,1972,5,13.55,,,,,,weapon,0,0,0,53.0,,0
+Ghana,Engines,1966,8,14.92,,,,,,subsystem,0,0,0,59.0,,0
+Ghana,Missiles,2015,1,8.0,,,,,,weapon,0,0,0,10.0,,0
+Ghana,Naval weapons,1977,1,5.0,,,,,,weapon,0,0,0,48.0,,0
+Ghana,Sensors,1977,2,10.0,,,,,,subsystem,0,0,0,48.0,,0
+Ghana,Ships,1959,15,328.84,,,,,,platform,0,0,0,66.0,,0
+Greece,Air defence systems,1959,19,2135.4,,,2000.0,,,weapon,0,0,0,66.0,,0
+Greece,Aircraft,1949,140,18714.81,,,1985.0,1994.0,2.0,platform,0,0,1,45.0,,0
+Greece,Anti-submarine warfare weapons,1965,8,375.6,,,,,,weapon,0,0,0,60.0,,0
+Greece,Armoured vehicles,1949,74,5594.09,1981.0,2.0,1981.0,1964.0,9.0,platform,1,0,1,15.0,-17.0,0
+Greece,Artillery,1949,36,1075.1000000000001,,,2025.0,2024.0,2.0,weapon,0,0,1,75.0,,0
+Greece,Engines,1964,23,542.6,,,,,,subsystem,0,0,0,61.0,,0
+Greece,Missiles,1957,117,3421.72,,,1961.0,2024.0,1.0,weapon,0,0,1,67.0,,0
+Greece,Naval weapons,1974,16,262.6,,,,,,weapon,0,0,0,51.0,,0
+Greece,Sensors,1955,65,1149.4,,,,,,subsystem,0,0,0,70.0,,0
+Greece,Ships,1950,81,9187.36,1978.0,9.0,1978.0,1964.0,5.0,platform,1,0,1,14.0,-14.0,0
+Grenada,Armoured vehicles,1981,1,1.2,,,,,,platform,0,0,0,44.0,,0
+Guatemala,Air defence systems,1975,1,2.4,,,,,,weapon,0,0,0,50.0,,0
+Guatemala,Aircraft,1951,49,306.79,,,,1955.0,1.0,platform,0,0,1,4.0,,0
+Guatemala,Armoured vehicles,1953,7,16.39,,,,,,platform,0,0,0,72.0,,0
+Guatemala,Artillery,1961,5,31.72,,,,,,weapon,0,0,0,64.0,,0
+Guatemala,Engines,1978,1,4.2,,,,,,subsystem,0,0,0,47.0,,0
+Guatemala,Sensors,2013,1,33.0,,,,,,subsystem,0,0,0,12.0,,0
+Guatemala,Ships,1959,4,24.17,,,,,,platform,0,0,0,66.0,,0
+Guinea,Air defence systems,1970,1,0.96,,,,,,weapon,0,0,0,55.0,,0
+Guinea,Aircraft,1959,22,129.32,,,,,,platform,0,0,0,66.0,,0
+Guinea,Armoured vehicles,1958,21,63.0,,,,,,platform,0,0,0,67.0,,0
+Guinea,Artillery,1960,7,18.56,,,,,,weapon,0,0,0,65.0,,0
+Guinea,Missiles,1974,3,5.7,,,,,,weapon,0,0,0,51.0,,0
+Guinea,Sensors,1970,3,1.08,,,,,,subsystem,0,0,0,55.0,,0
+Guinea,Ships,1965,5,213.2,,,,,,platform,0,0,0,60.0,,0
+Guinea-Bissau,Aircraft,1974,10,65.14,,,,,,platform,0,0,0,51.0,,0
+Guinea-Bissau,Armoured vehicles,1976,7,17.26,,,,,,platform,0,0,0,49.0,,0
+Guinea-Bissau,Artillery,1976,3,5.57,,,,,,weapon,0,0,0,49.0,,0
+Guinea-Bissau,Missiles,1980,2,10.5,,,,,,weapon,0,0,0,45.0,,0
+Guinea-Bissau,Sensors,1980,1,0.48,,,,,,subsystem,0,0,0,45.0,,0
+Guinea-Bissau,Ships,1975,5,87.92,,,,,,platform,0,0,0,50.0,,0
+Guyana,Aircraft,1966,21,77.74,,,,,,platform,0,0,0,59.0,,0
+Guyana,Armoured vehicles,1970,1,0.4,,,,,,platform,0,0,0,55.0,,0
+Guyana,Artillery,1976,3,6.3,,,,1976.0,1.0,weapon,0,1,0,49.0,,0
+Guyana,Missiles,1983,1,4.0,,,,,,weapon,0,0,0,42.0,,0
+Guyana,Ships,1976,5,30.85,,,,,,platform,0,0,0,49.0,,0
+Haiti,Aircraft,1950,25,44.48,,,,,,platform,0,0,0,75.0,,0
+Haiti,Armoured vehicles,1948,5,5.46,,,,,,platform,0,0,0,77.0,,0
+Haiti,Artillery,1959,1,0.72,,,,,,weapon,0,0,0,66.0,,0
+Haiti,Engines,1983,1,1.6,,,,,,subsystem,0,0,0,42.0,,0
+Haiti,Ships,1955,3,14.7,,,,,,platform,0,0,0,70.0,,0
+Honduras,Aircraft,1951,55,410.11,,,,,,platform,0,0,0,74.0,,0
+Honduras,Armoured vehicles,1950,7,36.88,,,,,,platform,0,0,0,75.0,,0
+Honduras,Artillery,1974,8,46.3,,,,,,weapon,0,0,0,51.0,,0
+Honduras,Engines,1983,2,6.6,,,,,,subsystem,0,0,0,42.0,,0
+Honduras,Missiles,1976,1,4.0,,,,,,weapon,0,0,0,49.0,,0
+Honduras,Sensors,2011,1,13.0,,,,,,subsystem,0,0,0,14.0,,0
+Honduras,Ships,1976,8,97.25,,,,,,platform,0,0,0,49.0,,0
+Hungary,Air defence systems,1959,9,1579.8600000000001,,,,,,weapon,0,0,0,66.0,,0
+Hungary,Aircraft,1948,68,8403.13,,,1954.0,1957.0,9.0,platform,0,0,1,9.0,,0
+Hungary,Armoured vehicles,1947,32,3537.9,2019.0,3.0,2019.0,1965.0,11.0,platform,1,0,1,18.0,-54.0,0
+Hungary,Artillery,1951,12,654.78,,,,,,weapon,0,0,0,74.0,,0
+Hungary,Engines,2001,5,98.2,,,,,,subsystem,0,0,0,24.0,,0
+Hungary,Missiles,1959,41,1287.1,,,,,,weapon,0,0,0,66.0,,0
+Hungary,Sensors,1963,14,337.2,,,,,,subsystem,0,0,0,62.0,,0
+Iceland,Engines,1966,2,6.0,,,,,,subsystem,0,0,0,59.0,,0
+Iceland,Ships,1958,4,117.0,,,,1993.0,1.0,platform,0,0,1,35.0,,0
+India,Air defence systems,1962,27,6738.75,2009.0,3.0,2008.0,2023.0,1.0,weapon,1,0,1,61.0,14.0,1
+India,Aircraft,1948,220,66969.36,1950.0,28.0,1950.0,1958.0,42.0,platform,1,0,1,10.0,8.0,1
+India,Anti-submarine warfare weapons,1965,30,1315.75,1993.0,8.0,1993.0,2017.0,1.0,weapon,1,0,1,52.0,24.0,1
+India,Armoured vehicles,1948,52,20105.18,1961.0,15.0,1961.0,1972.0,12.0,platform,1,0,1,24.0,11.0,1
+India,Artillery,1950,23,2683.81,2016.0,4.0,2005.0,1971.0,7.0,weapon,1,0,1,21.0,-45.0,0
+India,Engines,1953,74,2549.4,1975.0,21.0,1975.0,,,subsystem,1,0,0,72.0,50.0,1
+India,Missiles,1962,162,13444.01,1979.0,16.0,1962.0,2022.0,3.0,weapon,1,0,1,60.0,43.0,1
+India,Naval weapons,1978,28,253.25,1992.0,10.0,1992.0,,,weapon,1,0,0,47.0,33.0,1
+India,Sensors,1960,109,7131.12,1972.0,10.0,1972.0,2005.0,9.0,subsystem,1,0,1,45.0,33.0,1
+India,Ships,1948,65,18675.29,1964.0,13.0,1964.0,1973.0,18.0,platform,1,0,1,25.0,9.0,1
+Indonesia,Air defence systems,1960,15,682.87,,,,,,weapon,0,0,0,65.0,,0
+Indonesia,Aircraft,1950,194,7948.92,1974.0,9.0,1974.0,1962.0,17.0,platform,1,0,1,12.0,-12.0,0
+Indonesia,Anti-submarine warfare weapons,1971,7,141.65,,,1975.0,,,weapon,0,0,0,54.0,,0
+Indonesia,Armoured vehicles,1959,64,1154.6499999999999,2009.0,4.0,2009.0,1970.0,2.0,platform,1,0,1,11.0,-39.0,0
+Indonesia,Artillery,1959,21,407.32,2021.0,1.0,2021.0,,,weapon,1,0,0,66.0,4.0,1
+Indonesia,Engines,1950,56,395.04,,,,,,subsystem,0,0,0,75.0,,0
+Indonesia,Missiles,1960,64,955.35,2011.0,2.0,2011.0,,,weapon,1,0,0,65.0,14.0,1
+Indonesia,Naval weapons,1975,16,108.75,,,,,,weapon,0,0,0,50.0,,0
+Indonesia,Satellites,2023,2,0.0,,,,,,subsystem,0,0,0,2.0,,0
+Indonesia,Sensors,1976,46,901.5,,,2023.0,,,subsystem,0,0,0,49.0,,0
+Indonesia,Ships,1948,83,9033.15,1982.0,8.0,1982.0,2014.0,3.0,platform,1,0,1,66.0,32.0,1
+Iran,Air defence systems,1966,16,4572.58,1998.0,1.0,1998.0,,,weapon,1,0,0,59.0,27.0,1
+Iran,Aircraft,1948,88,23340.67,,,,1952.0,24.0,platform,0,0,1,4.0,,0
+Iran,Anti-submarine warfare weapons,1966,1,7.5,,,,,,weapon,0,0,0,59.0,,0
+Iran,Armoured vehicles,1950,38,7549.64,1991.0,4.0,1991.0,2001.0,4.0,platform,1,0,1,51.0,10.0,1
+Iran,Artillery,1957,23,1965.1599999999999,1981.0,4.0,1981.0,1980.0,6.0,weapon,1,0,1,23.0,-1.0,0
+Iran,Engines,1964,12,352.24,,,,,,subsystem,0,0,0,61.0,,0
+Iran,Missiles,1960,86,4820.65,1989.0,12.0,1987.0,1980.0,30.0,weapon,1,0,1,20.0,-9.0,0
+Iran,Naval weapons,1966,3,60.0,,,,,,weapon,0,0,0,59.0,,0
+Iran,Sensors,1955,21,652.45,,,,,,subsystem,0,0,0,70.0,,0
+Iran,Ships,1957,33,3646.71,1987.0,1.0,1987.0,1975.0,3.0,platform,1,0,1,18.0,-12.0,0
+Iraq,Air defence systems,1962,13,5075.42,,,,,,weapon,0,0,0,63.0,,0
+Iraq,Aircraft,1951,151,24605.3,,,,1956.0,2.0,platform,0,0,1,5.0,,0
+Iraq,Anti-submarine warfare weapons,1977,1,3.5,,,,,,weapon,0,0,0,48.0,,0
+Iraq,Armoured vehicles,1952,132,14886.63,2023.0,1.0,1982.0,1979.0,10.0,platform,1,0,1,27.0,-44.0,0
+Iraq,Artillery,1955,48,2731.37,1983.0,1.0,1983.0,1988.0,3.0,weapon,1,0,1,33.0,5.0,1
+Iraq,Engines,1977,10,187.9,,,,,,subsystem,0,0,0,48.0,,0
+Iraq,Missiles,1959,82,5281.7699999999995,,,,,,weapon,0,0,0,66.0,,0
+Iraq,Naval weapons,1977,1,2.25,,,,,,weapon,0,0,0,48.0,,0
+Iraq,Sensors,1965,24,838.3,1985.0,1.0,1985.0,,,subsystem,1,0,0,60.0,40.0,1
+Iraq,Ships,1958,18,1177.35,,,,,,platform,0,0,0,67.0,,0
+Ireland,Aircraft,1949,29,229.5,,,,2008.0,4.0,platform,0,0,1,59.0,,0
+Ireland,Armoured vehicles,1958,13,100.92999999999999,,,,1999.0,7.0,platform,0,0,1,41.0,,0
+Ireland,Artillery,1952,4,43.51,,,,,,weapon,0,0,0,73.0,,0
+Ireland,Engines,1982,10,21.95,,,,,,subsystem,0,0,0,43.0,,0
+Ireland,Missiles,1978,7,11.7,,,,,,weapon,0,0,0,47.0,,0
+Ireland,Naval weapons,1982,5,18.25,,,,,,weapon,0,0,0,43.0,,0
+Ireland,Sensors,1982,8,59.8,,,,2025.0,1.0,subsystem,0,0,1,43.0,,0
+Ireland,Ships,1970,10,338.8,,,,2015.0,1.0,platform,0,0,1,45.0,,0
+Israel,Air defence systems,1962,12,1072.6,,,,2000.0,24.0,weapon,0,0,1,38.0,,0
+Israel,Aircraft,1949,159,30713.36,1957.0,1.0,1957.0,1954.0,186.0,platform,1,0,1,5.0,-3.0,0
+Israel,Anti-submarine warfare weapons,1974,4,335.0,,,,,,weapon,0,0,0,51.0,,0
+Israel,Armoured vehicles,1949,51,5084.36,,,,1957.0,81.0,platform,0,0,1,8.0,,0
+Israel,Artillery,1954,20,1176.35,,,,1965.0,87.0,weapon,0,0,1,11.0,,0
+Israel,Engines,1955,29,1464.47,1970.0,1.0,1970.0,,,subsystem,1,0,0,70.0,55.0,1
+Israel,Missiles,1955,106,3215.43,,,,1970.0,251.0,weapon,0,0,1,15.0,,0
+Israel,Naval weapons,1968,6,167.0,,,,1997.0,2.0,weapon,0,0,1,29.0,,0
+Israel,Sensors,1964,19,479.5,,,,1985.0,166.0,subsystem,0,0,1,21.0,,0
+Israel,Ships,1949,21,3769.93,1978.0,1.0,1978.0,1958.0,34.0,platform,1,0,1,9.0,-20.0,0
+Italy,Air defence systems,1953,10,1392.5,,,,1977.0,16.0,weapon,0,0,1,24.0,,0
+Italy,Aircraft,1949,90,17110.83,1949.0,15.0,1949.0,1948.0,433.0,platform,1,1,0,76.0,76.0,0
+Italy,Anti-submarine warfare weapons,1962,2,287.5,1962.0,1.0,1962.0,1975.0,38.0,weapon,1,0,1,13.0,13.0,1
+Italy,Armoured vehicles,1948,32,5829.59,1960.0,4.0,1960.0,1976.0,73.0,platform,1,0,1,28.0,16.0,1
+Italy,Artillery,1950,15,930.2,2002.0,1.0,1985.0,1955.0,43.0,weapon,1,0,1,5.0,-47.0,0
+Italy,Engines,1951,41,1402.1,1958.0,14.0,1958.0,1967.0,2.0,subsystem,1,0,1,16.0,9.0,1
+Italy,Missiles,1956,74,2841.2400000000002,1971.0,2.0,1960.0,1966.0,63.0,weapon,1,0,1,10.0,-5.0,0
+Italy,Naval weapons,1950,3,11.0,,,,1958.0,195.0,weapon,0,0,1,8.0,,0
+Italy,Satellites,2012,1,50.0,,,,2009.0,2.0,subsystem,0,1,0,13.0,,0
+Italy,Sensors,1951,56,1928.8600000000001,,,,1962.0,126.0,subsystem,0,0,1,11.0,,0
+Italy,Ships,1950,28,2285.39,1952.0,7.0,1952.0,1949.0,62.0,platform,1,1,0,75.0,73.0,0
+Jamaica,Aircraft,1963,29,100.88,,,,,,platform,0,0,0,62.0,,0
+Jamaica,Armoured vehicles,1962,4,9.82,,,,,,platform,0,0,0,63.0,,0
+Jamaica,Engines,2013,2,0.54,,,,,,subsystem,0,0,0,12.0,,0
+Jamaica,Ships,1972,6,101.3,,,,,,platform,0,0,0,53.0,,0
+Japan,Air defence systems,1956,30,6453.0,1962.0,2.0,1962.0,,,weapon,1,0,0,69.0,63.0,1
+Japan,Aircraft,1951,117,47626.83,1952.0,27.0,1952.0,1953.0,22.0,platform,1,0,1,2.0,1.0,1
+Japan,Anti-submarine warfare weapons,1955,17,1102.5,1962.0,2.0,1962.0,,,weapon,1,0,0,70.0,63.0,1
+Japan,Armoured vehicles,1952,10,393.7,2023.0,1.0,2023.0,,,platform,1,0,0,73.0,2.0,1
+Japan,Artillery,1955,11,1046.1,1981.0,4.0,1981.0,,,weapon,1,0,0,70.0,44.0,1
+Japan,Engines,1953,48,4517.13,1953.0,27.0,1953.0,,,subsystem,1,0,0,72.0,72.0,1
+Japan,Missiles,1956,85,5993.4,1962.0,7.0,1962.0,2024.0,1.0,weapon,1,0,1,68.0,62.0,1
+Japan,Naval weapons,1953,40,1610.97,1978.0,2.0,1978.0,,,weapon,1,0,0,72.0,47.0,1
+Japan,Sensors,1953,43,2034.0,1955.0,4.0,1955.0,2020.0,1.0,subsystem,1,0,1,67.0,65.0,1
+Japan,Ships,1952,14,695.19,,,,1953.0,19.0,platform,0,0,1,1.0,,0
+Jordan,Air defence systems,1968,10,1797.22,,,,1973.0,3.0,weapon,0,0,1,5.0,,0
+Jordan,Aircraft,1949,126,4375.0,,,2006.0,1959.0,26.0,platform,0,0,1,10.0,,0
+Jordan,Armoured vehicles,1952,77,3342.89,2014.0,1.0,2014.0,1973.0,23.0,platform,1,0,1,21.0,-41.0,0
+Jordan,Artillery,1964,23,540.74,,,,2014.0,1.0,weapon,0,0,1,50.0,,0
+Jordan,Engines,1974,12,103.83,,,,,,subsystem,0,0,0,51.0,,0
+Jordan,Missiles,1969,57,1301.0,,,,1973.0,3.0,weapon,0,0,1,4.0,,0
+Jordan,Sensors,1960,24,328.9,,,,,,subsystem,0,0,0,65.0,,0
+Jordan,Ships,1987,2,24.0,,,,,,platform,0,0,0,38.0,,0
+Kazakhstan,Air defence systems,1998,4,260.0,,,,1995.0,1.0,weapon,0,1,0,27.0,,0
+Kazakhstan,Aircraft,1995,35,3027.02,2022.0,1.0,2010.0,1995.0,3.0,platform,1,1,0,30.0,3.0,0
+Kazakhstan,Armoured vehicles,2003,20,351.9,2013.0,4.0,2012.0,1998.0,1.0,platform,1,1,0,22.0,12.0,0
+Kazakhstan,Artillery,2006,4,51.900000000000006,,,,1998.0,6.0,weapon,0,1,0,19.0,,0
+Kazakhstan,Engines,2012,7,25.740000000000002,,,,,,subsystem,0,0,0,13.0,,0
+Kazakhstan,Missiles,1998,14,203.03,,,,1995.0,2.0,weapon,0,1,0,27.0,,0
+Kazakhstan,Sensors,2007,4,66.0,2014.0,1.0,2014.0,1995.0,1.0,subsystem,1,1,0,18.0,11.0,0
+Kazakhstan,Ships,1999,5,80.7,,,,,,platform,0,0,0,26.0,,0
+Kenya,Air defence systems,1977,2,45.3,,,,,,weapon,0,0,0,48.0,,0
+Kenya,Aircraft,1964,52,976.28,,,,1981.0,2.0,platform,0,0,1,17.0,,0
+Kenya,Armoured vehicles,1962,23,309.87,,,,,,platform,0,0,0,63.0,,0
+Kenya,Artillery,1975,4,56.04,,,,,,weapon,0,0,0,50.0,,0
+Kenya,Engines,1977,3,24.130000000000003,,,,,,subsystem,0,0,0,48.0,,0
+Kenya,Missiles,1976,10,131.7,,,,,,weapon,0,0,0,49.0,,0
+Kenya,Naval weapons,1981,5,15.3,,,,,,weapon,0,0,0,44.0,,0
+Kenya,Sensors,1972,2,9.0,,,,,,subsystem,0,0,0,53.0,,0
+Kenya,Ships,1964,9,283.05,,,,,,platform,0,0,0,61.0,,0
+Kosovo,Aircraft,2022,1,12.0,,,,,,platform,0,0,0,3.0,,0
+Kosovo,Armoured vehicles,2014,4,22.62,,,,,,platform,0,0,0,11.0,,0
+Kosovo,Artillery,2021,2,2.2,,,,,,weapon,0,0,0,4.0,,0
+Kosovo,Missiles,2022,2,0.75,,,,,,weapon,0,0,0,3.0,,0
+Kuwait,Air defence systems,1976,9,1277.0,,,,,,weapon,0,0,0,49.0,,0
+Kuwait,Aircraft,1953,36,6787.44,,,,1967.0,5.0,platform,0,0,1,14.0,,0
+Kuwait,Armoured vehicles,1953,63,4718.36,,,,1979.0,1.0,platform,0,0,1,26.0,,0
+Kuwait,Artillery,1967,9,203.95,,,,,,weapon,0,0,0,58.0,,0
+Kuwait,Engines,1989,3,47.2,,,,,,subsystem,0,0,0,36.0,,0
+Kuwait,Missiles,1962,60,1602.13,,,,1998.0,1.0,weapon,0,0,1,36.0,,0
+Kuwait,Naval weapons,2025,1,0.0,,,,,,weapon,0,0,0,0.0,,0
+Kuwait,Sensors,1975,24,377.89,,,,,,subsystem,0,0,0,50.0,,0
+Kuwait,Ships,1978,12,857.9000000000001,,,,,,platform,0,0,0,47.0,,0
+Kyrgyzstan,Air defence systems,2021,1,30.0,,,,,,weapon,0,0,0,4.0,,0
+Kyrgyzstan,Aircraft,2003,12,81.02,,,,1994.0,7.0,platform,0,1,0,22.0,,0
+Kyrgyzstan,Armoured vehicles,2015,2,17.09,,,,,,platform,0,0,0,10.0,,0
+Kyrgyzstan,Artillery,2014,1,1.4,,,,,,weapon,0,0,0,11.0,,0
+Kyrgyzstan,Sensors,2019,1,3.6,,,,,,subsystem,0,0,0,6.0,,0
+Laos,Air defence systems,1980,4,119.0,,,,,,weapon,0,0,0,45.0,,0
+Laos,Aircraft,1954,50,797.5600000000001,,,,,,platform,0,0,0,71.0,,0
+Laos,Armoured vehicles,1953,16,129.51,,,,,,platform,0,0,0,72.0,,0
+Laos,Artillery,1962,7,48.199999999999996,,,,,,weapon,0,0,0,63.0,,0
+Laos,Engines,2010,2,6.0,,,,,,subsystem,0,0,0,15.0,,0
+Laos,Missiles,1976,10,44.9,,,,,,weapon,0,0,0,49.0,,0
+Laos,Sensors,1970,1,3.0,,,,,,subsystem,0,0,0,55.0,,0
+Latvia,Air defence systems,2023,1,0.0,,,,,,weapon,0,0,0,2.0,,0
+Latvia,Aircraft,1993,7,46.459999999999994,,,,1994.0,3.0,platform,0,0,1,1.0,,0
+Latvia,Armoured vehicles,1992,16,91.02000000000001,2021.0,2.0,2021.0,2024.0,1.0,platform,1,0,1,32.0,3.0,1
+Latvia,Artillery,1994,7,33.14,,,,2022.0,1.0,weapon,0,0,1,28.0,,0
+Latvia,Engines,2021,2,4.9,,,,,,subsystem,0,0,0,4.0,,0
+Latvia,Missiles,1997,18,46.9,,,,2022.0,2.0,weapon,0,0,1,25.0,,0
+Latvia,Sensors,2000,7,104.9,,,,,,subsystem,0,0,0,25.0,,0
+Latvia,Ships,1992,10,192.6,,,,,,platform,0,0,0,33.0,,0
+Lebanon,Air defence systems,1957,1,18.0,,,,,,weapon,0,0,0,68.0,,0
+Lebanon,Aircraft,1949,43,527.64,,,,1967.0,3.0,platform,0,0,1,18.0,,0
+Lebanon,Armoured vehicles,1953,55,869.16,,,,,,platform,0,0,0,72.0,,0
+Lebanon,Artillery,1960,18,162.72,,,,,,weapon,0,0,0,65.0,,0
+Lebanon,Engines,2015,1,4.0,,,,,,subsystem,0,0,0,10.0,,0
+Lebanon,Missiles,1966,22,149.36,,,,,,weapon,0,0,0,59.0,,0
+Lebanon,Ships,1982,6,50.44,,,,,,platform,0,0,0,43.0,,0
+Lesotho,Aircraft,1978,18,46.98,,,,,,platform,0,0,0,47.0,,0
+Lesotho,Armoured vehicles,1976,2,1.92,,,,,,platform,0,0,0,49.0,,0
+Liberia,Aircraft,1963,11,20.02,,,,,,platform,0,0,0,62.0,,0
+Liberia,Armoured vehicles,1958,12,20.16,,,,,,platform,0,0,0,67.0,,0
+Liberia,Artillery,1971,5,8.24,,,,,,weapon,0,0,0,54.0,,0
+Liberia,Engines,2020,1,1.5,,,,,,subsystem,0,0,0,5.0,,0
+Liberia,Ships,1966,2,30.0,,,,,,platform,0,0,0,59.0,,0
+Libya,Air defence systems,1970,12,3749.16,,,,1981.0,1.0,weapon,0,0,1,11.0,,0
+Libya,Aircraft,1957,68,12542.43,,,1981.0,1973.0,28.0,platform,0,0,1,16.0,,0
+Libya,Anti-submarine warfare weapons,1985,1,3.0,,,,,,weapon,0,0,0,40.0,,0
+Libya,Armoured vehicles,1955,41,6838.24,,,,1976.0,18.0,platform,0,0,1,21.0,,0
+Libya,Artillery,1964,22,1110.54,,,,1975.0,2.0,weapon,0,0,1,11.0,,0
+Libya,Engines,1970,7,507.4,,,,2004.0,1.0,subsystem,0,0,1,34.0,,0
+Libya,Missiles,1967,49,3067.23,,,1995.0,1971.0,10.0,weapon,0,0,1,4.0,,0
+Libya,Naval weapons,1975,2,65.0,,,,,,weapon,0,0,0,50.0,,0
+Libya,Sensors,1972,12,466.3,,,,,,subsystem,0,0,0,53.0,,0
+Libya,Ships,1964,22,2712.16,,,,1978.0,1.0,platform,0,0,1,14.0,,0
+Lithuania,Air defence systems,2016,5,50.0,,,,2015.0,1.0,weapon,0,1,0,9.0,,0
+Lithuania,Aircraft,1993,9,98.92999999999999,,,,2001.0,4.0,platform,0,0,1,8.0,,0
+Lithuania,Armoured vehicles,1992,19,298.09000000000003,,,2025.0,2022.0,1.0,platform,0,0,1,30.0,,0
+Lithuania,Artillery,1995,13,113.48,,,,2022.0,2.0,weapon,0,0,1,27.0,,0
+Lithuania,Engines,2006,2,9.0,,,,,,subsystem,0,0,0,19.0,,0
+Lithuania,Missiles,1992,24,183.0,,,,2022.0,2.0,weapon,0,0,1,30.0,,0
+Lithuania,Sensors,1996,12,70.2,,,,2024.0,1.0,subsystem,0,0,1,28.0,,0
+Lithuania,Ships,1992,11,204.3,,,,,,platform,0,0,0,33.0,,0
+Luxembourg,Air defence systems,2025,1,0.0,,,,,,weapon,0,0,0,0.0,,0
+Luxembourg,Aircraft,1951,3,79.57,,,,2005.0,1.0,platform,0,0,1,54.0,,0
+Luxembourg,Armoured vehicles,1982,10,34.089999999999996,,,,,,platform,0,0,0,43.0,,0
+Luxembourg,Engines,2003,1,12.0,,,,,,subsystem,0,0,0,22.0,,0
+Luxembourg,Missiles,1973,3,4.42,,,,,,weapon,0,0,0,52.0,,0
+Madagascar,Aircraft,1960,24,127.74,,,,,,platform,0,0,0,65.0,,0
+Madagascar,Armoured vehicles,1961,6,9.6,,,,,,platform,0,0,0,64.0,,0
+Madagascar,Artillery,1965,3,3.38,,,,,,weapon,0,0,0,60.0,,0
+Madagascar,Missiles,1973,1,0.32,,,,,,weapon,0,0,0,52.0,,0
+Madagascar,Ships,1966,5,56.0,1973.0,1.0,1973.0,,,platform,1,0,0,59.0,52.0,1
+Malawi,Aircraft,1964,17,87.85,,,,1999.0,1.0,platform,0,0,1,35.0,,0
+Malawi,Armoured vehicles,1970,9,24.29,,,,,,platform,0,0,0,55.0,,0
+Malawi,Artillery,1979,1,7.2,,,,,,weapon,0,0,0,46.0,,0
+Malawi,Engines,2021,1,3.0,,,,,,subsystem,0,0,0,4.0,,0
+Malawi,Missiles,1985,1,4.2,,,,,,weapon,0,0,0,40.0,,0
+Malawi,Sensors,1985,1,2.38,,,,,,subsystem,0,0,0,40.0,,0
+Malaysia,Air defence systems,1986,3,94.5,,,2002.0,,,weapon,0,0,0,39.0,,0
+Malaysia,Aircraft,1958,77,4466.32,1993.0,1.0,1990.0,1970.0,5.0,platform,1,0,1,12.0,-23.0,0
+Malaysia,Anti-submarine warfare weapons,1981,3,73.75,,,,,,weapon,0,0,0,44.0,,0
+Malaysia,Armoured vehicles,1961,35,1042.01,2011.0,1.0,2000.0,,,platform,1,0,0,64.0,14.0,1
+Malaysia,Artillery,1965,11,152.4,,,2018.0,,,weapon,0,0,0,60.0,,0
+Malaysia,Engines,1966,27,250.58,,,,,,subsystem,0,0,0,59.0,,0
+Malaysia,Missiles,1966,52,739.36,,,2002.0,,,weapon,0,0,0,59.0,,0
+Malaysia,Naval weapons,1970,12,82.25,,,2013.0,,,weapon,0,0,0,55.0,,0
+Malaysia,Sensors,1966,50,545.58,,,2014.0,,,subsystem,0,0,0,59.0,,0
+Malaysia,Ships,1957,34,3355.0,1973.0,5.0,1973.0,1998.0,3.0,platform,1,0,1,41.0,25.0,1
+Maldives,Aircraft,2009,6,22.6,,,,,,platform,0,0,0,16.0,,0
+Maldives,Armoured vehicles,1991,4,3.85,,,,,,platform,0,0,0,34.0,,0
+Maldives,Ships,1997,4,32.2,,,,,,platform,0,0,0,28.0,,0
+Mali,Air defence systems,1981,1,52.5,,,,,,weapon,0,0,0,44.0,,0
+Mali,Aircraft,1961,53,488.25,,,,,,platform,0,0,0,64.0,,0
+Mali,Armoured vehicles,1960,36,159.02,,,,,,platform,0,0,0,65.0,,0
+Mali,Artillery,1966,9,33.71,,,,,,weapon,0,0,0,59.0,,0
+Mali,Engines,2015,3,5.0,,,,,,subsystem,0,0,0,10.0,,0
+Mali,Missiles,1981,2,12.4,,,,,,weapon,0,0,0,44.0,,0
+Mali,Sensors,1981,4,19.240000000000002,,,,,,subsystem,0,0,0,44.0,,0
+Malta,Aircraft,1972,19,44.93,,,,2004.0,2.0,platform,0,0,1,32.0,,0
+Malta,Missiles,1978,1,0.6,,,,,,weapon,0,0,0,47.0,,0
+Malta,Ships,1978,7,105.98,,,,,,platform,0,0,0,47.0,,0
+Mauritania,Air defence systems,1980,2,82.88,,,,,,weapon,0,0,0,45.0,,0
+Mauritania,Aircraft,1960,25,128.92,,,,,,platform,0,0,0,65.0,,0
+Mauritania,Armoured vehicles,1960,16,134.96,,,,,,platform,0,0,0,65.0,,0
+Mauritania,Artillery,1978,3,16.7,,,,,,weapon,0,0,0,47.0,,0
+Mauritania,Engines,2011,1,1.0,,,,,,subsystem,0,0,0,14.0,,0
+Mauritania,Missiles,1984,4,13.7,,,,,,weapon,0,0,0,41.0,,0
+Mauritania,Sensors,1980,1,0.72,,,,,,subsystem,0,0,0,45.0,,0
+Mauritania,Ships,1970,13,186.1,,,,,,platform,0,0,0,55.0,,0
+Mauritius,Aircraft,1968,9,31.03,,,,,,platform,0,0,0,57.0,,0
+Mauritius,Armoured vehicles,1970,3,4.3,,,,,,platform,0,0,0,55.0,,0
+Mauritius,Naval weapons,1994,1,0.4,,,,,,weapon,0,0,0,31.0,,0
+Mauritius,Sensors,1989,3,7.5,,,,,,subsystem,0,0,0,36.0,,0
+Mauritius,Ships,1974,5,104.30000000000001,,,,,,platform,0,0,0,51.0,,0
+Mexico,Air defence systems,2018,1,5.0,,,,,,weapon,0,0,0,7.0,,0
+Mexico,Aircraft,1950,171,3455.13,,,1999.0,1953.0,2.0,platform,0,0,1,3.0,,0
+Mexico,Anti-submarine warfare weapons,2017,1,3.0,,,,,,weapon,0,0,0,8.0,,0
+Mexico,Armoured vehicles,1960,22,337.06,,,2010.0,,,platform,0,0,0,65.0,,0
+Mexico,Artillery,1960,7,46.75,,,,,,weapon,0,0,0,65.0,,0
+Mexico,Engines,1978,24,151.65,,,,,,subsystem,0,0,0,47.0,,0
+Mexico,Missiles,1981,9,30.66,,,,,,weapon,0,0,0,44.0,,0
+Mexico,Naval weapons,1994,5,45.0,,,,,,weapon,0,0,0,31.0,,0
+Mexico,Sensors,1985,16,289.8,,,,,,subsystem,0,0,0,40.0,,0
+Mexico,Ships,1962,30,1952.41,1973.0,6.0,1973.0,1991.0,1.0,platform,1,0,1,29.0,18.0,1
+Moldova,Armoured vehicles,1992,3,18.76,,,,,,platform,0,0,0,33.0,,0
+Moldova,Artillery,1992,3,10.2,,,,1994.0,2.0,weapon,0,0,1,2.0,,0
+Moldova,Missiles,2023,1,3.52,,,,2000.0,1.0,weapon,0,1,0,2.0,,0
+Moldova,Sensors,2023,2,10.0,,,,,,subsystem,0,0,0,2.0,,0
+Mongolia,Air defence systems,1964,2,77.87,,,,,,weapon,0,0,0,61.0,,0
+Mongolia,Aircraft,1951,20,610.8199999999999,,,,,,platform,0,0,0,74.0,,0
+Mongolia,Armoured vehicles,1951,15,1343.27,,,,,,platform,0,0,0,74.0,,0
+Mongolia,Artillery,1951,8,165.95,,,,,,weapon,0,0,0,74.0,,0
+Mongolia,Missiles,1962,6,90.0,,,,,,weapon,0,0,0,63.0,,0
+Mongolia,Sensors,1965,1,6.0,,,,,,subsystem,0,0,0,60.0,,0
+Montenegro,Aircraft,2018,2,16.8,,,,2010.0,1.0,platform,0,1,0,7.0,,0
+Montenegro,Armoured vehicles,2014,4,13.829999999999998,,,,,,platform,0,0,0,11.0,,0
+Montenegro,Artillery,2023,1,0.0,,,,2010.0,1.0,weapon,0,1,0,2.0,,0
+Montenegro,Sensors,2019,1,0.0,,,,,,subsystem,0,0,0,6.0,,0
+Montenegro,Ships,2024,1,0.0,,,,2005.0,1.0,platform,0,1,0,1.0,,0
+Morocco,Air defence systems,1960,13,668.2,,,,,,weapon,0,0,0,65.0,,0
+Morocco,Aircraft,1956,82,4833.39,,,,1969.0,2.0,platform,0,0,1,13.0,,0
+Morocco,Anti-submarine warfare weapons,1977,2,28.5,,,,,,weapon,0,0,0,48.0,,0
+Morocco,Armoured vehicles,1954,71,3731.27,2024.0,1.0,2024.0,1962.0,2.0,platform,1,0,1,8.0,-62.0,0
+Morocco,Artillery,1962,27,428.22,,,,,,weapon,0,0,0,63.0,,0
+Morocco,Engines,1965,15,108.18,,,,,,subsystem,0,0,0,60.0,,0
+Morocco,Missiles,1972,59,922.53,,,,,,weapon,0,0,0,53.0,,0
+Morocco,Naval weapons,1973,3,31.25,,,,,,weapon,0,0,0,52.0,,0
+Morocco,Satellites,2013,2,100.0,,,,,,subsystem,0,0,0,12.0,,0
+Morocco,Sensors,1960,24,490.86,,,,,,subsystem,0,0,0,65.0,,0
+Morocco,Ships,1960,26,2099.85,,,,,,platform,0,0,0,65.0,,0
+Mozambique,Air defence systems,1978,3,64.1,,,,,,weapon,0,0,0,47.0,,0
+Mozambique,Aircraft,1975,35,946.94,,,,1976.0,1.0,platform,0,0,1,1.0,,0
+Mozambique,Armoured vehicles,1976,22,201.57,,,,,,platform,0,0,0,49.0,,0
+Mozambique,Artillery,1976,6,37.44,,,,,,weapon,0,0,0,49.0,,0
+Mozambique,Engines,2021,2,1.85,,,,,,subsystem,0,0,0,4.0,,0
+Mozambique,Missiles,1976,4,28.8,,,,,,weapon,0,0,0,49.0,,0
+Mozambique,Sensors,1985,1,5.0,,,,,,subsystem,0,0,0,40.0,,0
+Mozambique,Ships,1975,7,90.77,,,,,,platform,0,0,0,50.0,,0
+Myanmar,Air defence systems,1990,6,839.75,2013.0,2.0,2013.0,,,weapon,1,0,0,35.0,12.0,1
+Myanmar,Aircraft,1949,93,3256.5,2017.0,1.0,2009.0,,,platform,1,0,0,76.0,8.0,1
+Myanmar,Anti-submarine warfare weapons,2017,1,6.0,,,,,,weapon,0,0,0,8.0,,0
+Myanmar,Armoured vehicles,1952,25,823.57,,,,,,platform,0,0,0,73.0,,0
+Myanmar,Artillery,1959,15,177.0,2007.0,1.0,2007.0,,,weapon,1,0,0,66.0,18.0,1
+Myanmar,Engines,1977,10,68.45,,,,,,subsystem,0,0,0,48.0,,0
+Myanmar,Missiles,1990,29,588.01,2000.0,2.0,2000.0,,,weapon,1,0,0,35.0,25.0,1
+Myanmar,Naval weapons,1955,8,36.49,,,,,,weapon,0,0,0,70.0,,0
+Myanmar,Sensors,1964,18,166.21,,,,,,subsystem,0,0,0,61.0,,0
+Myanmar,Ships,1955,23,1469.51,1962.0,5.0,1962.0,,,platform,1,0,0,70.0,63.0,1
+Namibia,Aircraft,1992,17,214.59,,,,,,platform,0,0,0,33.0,,0
+Namibia,Armoured vehicles,2008,4,16.32,,,,,,platform,0,0,0,17.0,,0
+Namibia,Artillery,1998,1,4.8,,,,,,weapon,0,0,0,27.0,,0
+Namibia,Engines,2000,2,7.4,,,,,,subsystem,0,0,0,25.0,,0
+Namibia,Missiles,2016,1,4.0,,,,,,weapon,0,0,0,9.0,,0
+Namibia,Ships,2003,4,98.6,,,,,,platform,0,0,0,22.0,,0
+Nepal,Aircraft,1964,33,155.99,,,,,,platform,0,0,0,61.0,,0
+Nepal,Armoured vehicles,1969,10,51.68,,,,,,platform,0,0,0,56.0,,0
+Nepal,Artillery,1965,4,11.540000000000001,,,,,,weapon,0,0,0,60.0,,0
+Nepal,Engines,2017,1,1.0,,,,,,subsystem,0,0,0,8.0,,0
+Netherlands,Air defence systems,1955,21,2214.4,,,1973.0,2004.0,3.0,weapon,0,0,1,49.0,,0
+Netherlands,Aircraft,1949,87,16827.74,1949.0,4.0,1949.0,1949.0,88.0,platform,1,1,0,76.0,76.0,0
+Netherlands,Anti-submarine warfare weapons,1949,9,856.0,,,,,,weapon,0,0,0,76.0,,0
+Netherlands,Armoured vehicles,1950,49,6369.93,1981.0,2.0,1968.0,1975.0,62.0,platform,1,0,1,25.0,-6.0,0
+Netherlands,Artillery,1950,19,869.92,1980.0,2.0,1980.0,1984.0,12.0,weapon,1,0,1,34.0,4.0,1
+Netherlands,Engines,1951,37,534.43,1985.0,3.0,1985.0,1967.0,2.0,subsystem,1,0,1,16.0,-18.0,0
+Netherlands,Missiles,1956,97,2547.02,,,1962.0,1974.0,16.0,weapon,0,0,1,18.0,,0
+Netherlands,Naval weapons,1946,11,333.86,1946.0,1.0,1946.0,1985.0,10.0,weapon,1,0,1,39.0,39.0,1
+Netherlands,Satellites,2025,1,0.0,,,,2018.0,1.0,subsystem,0,1,0,0.0,,0
+Netherlands,Sensors,1948,39,746.85,,,,1948.0,291.0,subsystem,0,1,0,77.0,,0
+Netherlands,Ships,1950,15,2029.5,,,1996.0,1948.0,110.0,platform,0,1,0,75.0,,0
+New Zealand,Air defence systems,1991,1,40.0,,,,,,weapon,0,0,0,34.0,,0
+New Zealand,Aircraft,1949,54,2218.46,,,,1964.0,22.0,platform,0,0,1,15.0,,0
+New Zealand,Anti-submarine warfare weapons,1965,4,69.55,,,,,,weapon,0,0,0,60.0,,0
+New Zealand,Armoured vehicles,1950,14,254.37,,,,1968.0,2.0,platform,0,0,1,18.0,,0
+New Zealand,Artillery,1959,3,19.44,,,,,,weapon,0,0,0,66.0,,0
+New Zealand,Engines,1986,10,58.79,,,,2012.0,1.0,subsystem,0,0,1,26.0,,0
+New Zealand,Missiles,1957,17,138.86,,,,2015.0,1.0,weapon,0,0,1,58.0,,0
+New Zealand,Naval weapons,1989,2,24.5,,,,,,weapon,0,0,0,36.0,,0
+New Zealand,Sensors,1974,13,155.9,,,,,,subsystem,0,0,0,51.0,,0
+New Zealand,Ships,1952,19,1723.3,2004.0,1.0,2004.0,2022.0,1.0,platform,1,0,1,70.0,18.0,1
+Nicaragua,Air defence systems,1981,3,29.12,,,,,,weapon,0,0,0,44.0,,0
+Nicaragua,Aircraft,1952,43,685.79,,,,1955.0,6.0,platform,0,0,1,3.0,,0
+Nicaragua,Armoured vehicles,1954,18,237.47,,,,1958.0,1.0,platform,0,0,1,4.0,,0
+Nicaragua,Artillery,1959,9,40.63,,,,,,weapon,0,0,0,66.0,,0
+Nicaragua,Missiles,1981,7,107.22,,,,1989.0,5.0,weapon,0,0,1,8.0,,0
+Nicaragua,Sensors,1981,4,25.0,,,,1991.0,3.0,subsystem,0,0,1,10.0,,0
+Nicaragua,Ships,2007,2,27.2,,,,,,platform,0,0,0,18.0,,0
+Niger,Air defence systems,1981,2,5.5,,,,,,weapon,0,0,0,44.0,,0
+Niger,Aircraft,1960,30,196.74,,,,1973.0,1.0,platform,0,0,1,13.0,,0
+Niger,Armoured vehicles,1958,22,79.81,,,,,,platform,0,0,0,67.0,,0
+Niger,Artillery,1980,2,3.3600000000000003,,,,,,weapon,0,0,0,45.0,,0
+Niger,Engines,2021,1,1.0,,,,,,subsystem,0,0,0,4.0,,0
+Niger,Missiles,2024,1,0.2,,,,,,weapon,0,0,0,1.0,,0
+Nigeria,Air defence systems,1977,3,375.0,,,,,,weapon,0,0,0,48.0,,0
+Nigeria,Aircraft,1961,99,2627.87,,,1987.0,1989.0,2.0,platform,0,0,1,28.0,,0
+Nigeria,Anti-submarine warfare weapons,1975,2,11.5,,,,,,weapon,0,0,0,50.0,,0
+Nigeria,Armoured vehicles,1960,58,1079.24,2020.0,1.0,2009.0,2019.0,1.0,platform,1,0,1,59.0,-1.0,0
+Nigeria,Artillery,1965,19,343.13,,,,,,weapon,0,0,0,60.0,,0
+Nigeria,Engines,1970,20,156.98,,,,,,subsystem,0,0,0,55.0,,0
+Nigeria,Missiles,1975,18,145.7,,,,,,weapon,0,0,0,50.0,,0
+Nigeria,Naval weapons,1963,7,81.74,,,,,,weapon,0,0,0,62.0,,0
+Nigeria,Sensors,1968,14,97.84,,,,,,subsystem,0,0,0,57.0,,0
+Nigeria,Ships,1959,39,1403.84,,,,,,platform,0,0,0,66.0,,0
+North Korea,Air defence systems,1951,9,2364.21,,,,,,weapon,0,0,0,74.0,,0
+North Korea,Aircraft,1948,48,9342.31,,,1990.0,1975.0,2.0,platform,0,0,1,27.0,,0
+North Korea,Armoured vehicles,1949,20,5065.5,1966.0,5.0,1966.0,1981.0,5.0,platform,1,0,1,32.0,15.0,1
+North Korea,Artillery,1949,20,1517.24,1963.0,1.0,1963.0,1975.0,21.0,weapon,1,0,1,26.0,12.0,1
+North Korea,Missiles,1961,31,1521.8,1975.0,7.0,1970.0,1986.0,21.0,weapon,1,0,1,25.0,11.0,1
+North Korea,Sensors,1950,12,454.11,,,,,,subsystem,0,0,0,75.0,,0
+North Korea,Ships,1951,19,3516.7999999999997,1951.0,3.0,1951.0,1973.0,8.0,platform,1,0,1,22.0,22.0,1
+North Macedonia,Air defence systems,2001,1,2.0,,,,,,weapon,0,0,0,24.0,,0
+North Macedonia,Aircraft,1994,12,114.56,,,,2022.0,2.0,platform,0,0,1,28.0,,0
+North Macedonia,Armoured vehicles,1998,15,120.53,,,,2022.0,1.0,platform,0,0,1,24.0,,0
+North Macedonia,Artillery,1998,7,38.06,,,,,,weapon,0,0,0,27.0,,0
+North Macedonia,Missiles,1999,4,2.65,,,,,,weapon,0,0,0,26.0,,0
+North Macedonia,Sensors,1998,1,1.44,,,,,,subsystem,0,0,0,27.0,,0
+Norway,Air defence systems,1958,4,349.0,,,,2000.0,25.0,weapon,0,0,1,42.0,,0
+Norway,Aircraft,1949,53,8856.970000000001,,,1986.0,1950.0,16.0,platform,0,0,1,1.0,,0
+Norway,Anti-submarine warfare weapons,1964,8,794.8,,,,2002.0,2.0,weapon,0,0,1,38.0,,0
+Norway,Armoured vehicles,1950,45,891.3100000000001,,,1994.0,1986.0,13.0,platform,0,0,1,36.0,,0
+Norway,Artillery,1951,12,434.36,,,2025.0,2022.0,1.0,weapon,0,0,1,71.0,,0
+Norway,Engines,1962,15,249.32,,,,2016.0,2.0,subsystem,0,0,1,54.0,,0
+Norway,Missiles,1956,48,1515.1,,,1962.0,1962.0,55.0,weapon,0,0,1,6.0,,0
+Norway,Naval weapons,1962,7,137.25,,,,,,weapon,0,0,0,63.0,,0
+Norway,Sensors,1958,46,1855.9,1985.0,3.0,1985.0,1981.0,12.0,subsystem,1,0,1,23.0,-4.0,0
+Norway,Ships,1950,21,4122.92,1953.0,1.0,1953.0,1951.0,26.0,platform,1,0,1,1.0,-2.0,0
+Oman,Air defence systems,1974,9,458.59,,,,,,weapon,0,0,0,51.0,,0
+Oman,Aircraft,1958,61,3190.22,,,,1977.0,4.0,platform,0,0,1,19.0,,0
+Oman,Armoured vehicles,1962,36,681.99,,,2000.0,2005.0,1.0,platform,0,0,1,43.0,,0
+Oman,Artillery,1970,8,80.14999999999999,,,,,,weapon,0,0,0,55.0,,0
+Oman,Engines,1992,7,99.96000000000001,,,,,,subsystem,0,0,0,33.0,,0
+Oman,Missiles,1974,38,814.78,,,,,,weapon,0,0,0,51.0,,0
+Oman,Naval weapons,1980,10,47.25,,,,,,weapon,0,0,0,45.0,,0
+Oman,Sensors,1974,33,450.12,,,,,,subsystem,0,0,0,51.0,,0
+Oman,Ships,1969,21,1329.3600000000001,,,,2014.0,1.0,platform,0,0,1,45.0,,0
+Pakistan,Air defence systems,1955,14,943.87,,,,,,weapon,0,0,0,70.0,,0
+Pakistan,Aircraft,1949,186,18303.6,1974.0,7.0,1968.0,1966.0,17.0,platform,1,0,1,17.0,-8.0,0
+Pakistan,Anti-submarine warfare weapons,1964,17,405.0,,,,,,weapon,0,0,0,61.0,,0
+Pakistan,Armoured vehicles,1949,52,8259.98,1990.0,5.0,1989.0,1971.0,4.0,platform,1,0,1,22.0,-19.0,0
+Pakistan,Artillery,1954,28,1566.68,1965.0,4.0,1965.0,1984.0,2.0,weapon,1,0,1,30.0,19.0,1
+Pakistan,Engines,1973,26,1095.49,,,,,,subsystem,0,0,0,52.0,,0
+Pakistan,Missiles,1960,79,3760.55,1963.0,6.0,1963.0,2001.0,5.0,weapon,1,0,1,41.0,38.0,1
+Pakistan,Naval weapons,1957,5,62.47,,,,,,weapon,0,0,0,68.0,,0
+Pakistan,Sensors,1951,65,2218.79,1995.0,2.0,1988.0,,,subsystem,1,0,0,74.0,30.0,1
+Pakistan,Ships,1949,53,8829.55,1994.0,11.0,1989.0,1979.0,1.0,platform,1,0,1,30.0,-15.0,0
+Panama,Aircraft,1964,26,121.58,,,,1978.0,3.0,platform,0,0,1,14.0,,0
+Panama,Armoured vehicles,1972,5,13.95,,,,,,platform,0,0,0,53.0,,0
+Panama,Artillery,1975,1,0.5,,,,,,weapon,0,0,0,50.0,,0
+Panama,Engines,1987,2,1.0,,,,,,subsystem,0,0,0,38.0,,0
+Panama,Ships,1969,2,18.5,,,,,,platform,0,0,0,56.0,,0
+Papua New Guinea,Aircraft,1974,9,49.64,,,,,,platform,0,0,0,51.0,,0
+Papua New Guinea,Armoured vehicles,1993,2,0.85,,,,,,platform,0,0,0,32.0,,0
+Papua New Guinea,Artillery,1995,1,0.75,,,,,,weapon,0,0,0,30.0,,0
+Papua New Guinea,Engines,1991,1,2.0,,,,,,subsystem,0,0,0,34.0,,0
+Papua New Guinea,Ships,1975,6,90.28,,,,,,platform,0,0,0,50.0,,0
+Paraguay,Aircraft,1949,53,164.68,,,,,,platform,0,0,0,76.0,,0
+Paraguay,Armoured vehicles,1950,13,35.29,,,,,,platform,0,0,0,75.0,,0
+Paraguay,Artillery,1960,2,4.5,,,,,,weapon,0,0,0,65.0,,0
+Paraguay,Engines,1978,3,8.1,,,,,,subsystem,0,0,0,47.0,,0
+Paraguay,Sensors,2011,2,12.0,,,,,,subsystem,0,0,0,14.0,,0
+Paraguay,Ships,1964,3,32.16,,,,,,platform,0,0,0,61.0,,0
+Peru,Air defence systems,1976,2,304.5,,,,,,weapon,0,0,0,49.0,,0
+Peru,Aircraft,1949,194,6095.86,2019.0,1.0,2012.0,1982.0,4.0,platform,1,0,1,33.0,-37.0,0
+Peru,Anti-submarine warfare weapons,1969,4,211.2,,,,,,weapon,0,0,0,56.0,,0
+Peru,Armoured vehicles,1955,28,630.28,,,,,,platform,0,0,0,70.0,,0
+Peru,Artillery,1967,17,191.49,,,,,,weapon,0,0,0,58.0,,0
+Peru,Engines,1973,13,132.48,,,,,,subsystem,0,0,0,52.0,,0
+Peru,Missiles,1968,40,584.08,,,,1982.0,1.0,weapon,0,0,1,14.0,,0
+Peru,Naval weapons,1976,3,35.0,,,,,,weapon,0,0,0,49.0,,0
+Peru,Satellites,2014,1,50.0,,,,,,subsystem,0,0,0,11.0,,0
+Peru,Sensors,1970,15,131.32,,,,,,subsystem,0,0,0,55.0,,0
+Peru,Ships,1950,43,4838.65,1966.0,7.0,1966.0,,,platform,1,0,0,75.0,59.0,1
+Philippines,Air defence systems,2019,2,145.0,,,,,,weapon,0,0,0,6.0,,0
+Philippines,Aircraft,1950,127,2391.46,1974.0,1.0,1974.0,1986.0,2.0,platform,1,0,1,36.0,12.0,1
+Philippines,Anti-submarine warfare weapons,1964,4,22.25,,,,,,weapon,0,0,0,61.0,,0
+Philippines,Armoured vehicles,1954,40,264.16,,,1992.0,,,platform,0,0,0,71.0,,0
+Philippines,Artillery,1955,10,107.74,,,,,,weapon,0,0,0,70.0,,0
+Philippines,Engines,1964,23,114.31,,,,,,subsystem,0,0,0,61.0,,0
+Philippines,Missiles,1962,20,351.54,,,,,,weapon,0,0,0,63.0,,0
+Philippines,Naval weapons,1978,4,35.0,,,,,,weapon,0,0,0,47.0,,0
+Philippines,Sensors,1960,19,295.5,,,,,,subsystem,0,0,0,65.0,,0
+Philippines,Ships,1954,59,2337.05,2021.0,2.0,2021.0,,,platform,1,0,0,71.0,4.0,1
+Poland,Air defence systems,1957,13,4378.1,,,2018.0,2005.0,7.0,weapon,0,0,1,48.0,,0
+Poland,Aircraft,1949,94,21913.84,1950.0,14.0,1950.0,1960.0,50.0,platform,1,0,1,11.0,10.0,1
+Poland,Anti-submarine warfare weapons,1979,9,223.3,,,,,,weapon,0,0,0,46.0,,0
+Poland,Armoured vehicles,1950,61,12119.22,1950.0,16.0,1950.0,1970.0,36.0,platform,1,0,1,20.0,20.0,1
+Poland,Artillery,1950,22,2333.78,1950.0,10.0,1950.0,2018.0,6.0,weapon,1,0,1,68.0,68.0,1
+Poland,Engines,1970,26,247.21,1984.0,2.0,1984.0,2022.0,1.0,subsystem,1,0,1,52.0,38.0,1
+Poland,Missiles,1956,112,4829.85,1969.0,4.0,1969.0,2005.0,27.0,weapon,1,0,1,49.0,36.0,1
+Poland,Naval weapons,1952,6,18.75,,,,,,weapon,0,0,0,73.0,,0
+Poland,Satellites,2022,2,0.0,,,,,,subsystem,0,0,0,3.0,,0
+Poland,Sensors,1954,42,955.25,,,,1996.0,3.0,subsystem,0,0,1,42.0,,0
+Poland,Ships,1953,20,2707.7,2001.0,2.0,2001.0,1959.0,24.0,platform,1,0,1,6.0,-42.0,0
+Portugal,Air defence systems,1986,4,34.4,,,,,,weapon,0,0,0,39.0,,0
+Portugal,Aircraft,1949,82,4453.43,1954.0,1.0,1954.0,1967.0,37.0,platform,1,0,1,18.0,13.0,1
+Portugal,Anti-submarine warfare weapons,1956,10,237.5,,,,2007.0,1.0,weapon,0,0,1,51.0,,0
+Portugal,Armoured vehicles,1952,35,674.65,2005.0,2.0,2005.0,1972.0,8.0,platform,1,0,1,20.0,-33.0,0
+Portugal,Artillery,1954,11,78.15,,,,2023.0,1.0,weapon,0,0,1,69.0,,0
+Portugal,Engines,1954,11,119.9,,,,2013.0,1.0,subsystem,0,0,1,59.0,,0
+Portugal,Missiles,1960,29,156.28,,,,,,weapon,0,0,0,65.0,,0
+Portugal,Naval weapons,1954,5,61.25,,,,,,weapon,0,0,0,71.0,,0
+Portugal,Sensors,1961,26,329.81,,,,,,subsystem,0,0,0,64.0,,0
+Portugal,Ships,1950,26,3555.67,1954.0,1.0,1954.0,1975.0,7.0,platform,1,0,1,25.0,21.0,1
+Qatar,Air defence systems,1981,9,873.0,,,,1993.0,2.0,weapon,0,0,1,12.0,,0
+Qatar,Aircraft,1968,32,10139.42,,,,2021.0,3.0,platform,0,0,1,53.0,,0
+Qatar,Armoured vehicles,1966,29,834.89,,,,1999.0,6.0,platform,0,0,1,33.0,,0
+Qatar,Artillery,1979,7,173.2,,,,2024.0,1.0,weapon,0,0,1,45.0,,0
+Qatar,Engines,1992,11,224.79999999999998,,,,,,subsystem,0,0,0,33.0,,0
+Qatar,Missiles,1970,62,3219.66,,,,2006.0,2.0,weapon,0,0,1,36.0,,0
+Qatar,Naval weapons,1992,2,50.0,,,,,,weapon,0,0,0,33.0,,0
+Qatar,Sensors,1981,23,838.5,,,,1993.0,1.0,subsystem,0,0,1,12.0,,0
+Qatar,Ships,1972,13,2118.5,,,,,,platform,0,0,0,53.0,,0
+Republic of the Congo,Air defence systems,1975,2,23.36,,,,,,weapon,0,0,0,50.0,,0
+Republic of the Congo,Aircraft,1960,34,359.35,,,,,,platform,0,0,0,65.0,,0
+Republic of the Congo,Armoured vehicles,1966,25,95.04,,,,,,platform,0,0,0,59.0,,0
+Republic of the Congo,Artillery,1970,8,14.84,,,,,,weapon,0,0,0,55.0,,0
+Republic of the Congo,Missiles,1988,1,10.5,,,,,,weapon,0,0,0,37.0,,0
+Republic of the Congo,Sensors,1975,1,0.72,,,,,,subsystem,0,0,0,50.0,,0
+Republic of the Congo,Ships,1979,2,27.0,,,,,,platform,0,0,0,46.0,,0
+Romania,Air defence systems,1962,11,1132.5,,,,2024.0,1.0,weapon,0,0,1,62.0,,0
+Romania,Aircraft,1950,62,10129.2,1974.0,4.0,1974.0,1970.0,23.0,platform,1,0,1,20.0,-4.0,0
+Romania,Anti-submarine warfare weapons,1978,6,105.55,,,,,,weapon,0,0,0,47.0,,0
+Romania,Armoured vehicles,1950,35,2902.66,1968.0,8.0,1968.0,1955.0,10.0,platform,1,0,1,5.0,-13.0,0
+Romania,Artillery,1950,11,491.79,2017.0,2.0,2017.0,1986.0,13.0,weapon,1,0,1,36.0,-31.0,0
+Romania,Engines,1971,12,237.95000000000002,,,,,,subsystem,0,0,0,54.0,,0
+Romania,Missiles,1958,53,1575.56,1971.0,5.0,1971.0,2024.0,2.0,weapon,1,0,1,66.0,53.0,1
+Romania,Naval weapons,1977,13,79.0,,,,,,weapon,0,0,0,48.0,,0
+Romania,Sensors,1956,25,702.75,,,2008.0,,,subsystem,0,0,0,69.0,,0
+Romania,Ships,1952,23,2277.8,1952.0,3.0,1952.0,1996.0,3.0,platform,1,0,1,44.0,44.0,1
+Russia,Aircraft,1952,23,20629.1,2010.0,3.0,2010.0,1948.0,1358.0,platform,1,1,0,73.0,15.0,0
+Russia,Armoured vehicles,1965,5,4689.5,,,2011.0,1947.0,717.0,platform,0,1,0,60.0,,0
+Russia,Artillery,1976,7,220.2,,,,1949.0,394.0,weapon,0,1,0,49.0,,0
+Russia,Engines,2005,7,308.6,2018.0,1.0,2018.0,1961.0,59.0,subsystem,1,1,0,20.0,7.0,0
+Russia,Missiles,1999,9,740.76,2022.0,1.0,2022.0,1956.0,1114.0,weapon,1,1,0,26.0,3.0,0
+Russia,Sensors,1978,2,315.0,,,,1950.0,281.0,subsystem,0,1,0,47.0,,0
+Russia,Ships,1949,25,6293.42,,,,1949.0,347.0,platform,0,1,0,76.0,,0
+Rwanda,Air defence systems,2022,1,30.0,,,,,,weapon,0,0,0,3.0,,0
+Rwanda,Aircraft,1963,23,157.47,,,,,,platform,0,0,0,62.0,,0
+Rwanda,Armoured vehicles,1960,15,93.89,,,,,,platform,0,0,0,65.0,,0
+Rwanda,Artillery,1989,9,36.47,,,,,,weapon,0,0,0,36.0,,0
+Rwanda,Missiles,2016,2,9.0,,,,,,weapon,0,0,0,9.0,,0
+Rwanda,Sensors,2008,1,11.0,,,,,,subsystem,0,0,0,17.0,,0
+Saint Kitts and Nevis,Ships,1984,1,5.5,,,,,,platform,0,0,0,41.0,,0
+Saint Vincent and the Grenadines,Ships,1986,1,3.9,,,,,,platform,0,0,0,39.0,,0
+Saudi Arabia,Air defence systems,1961,26,6384.55,,,,,,weapon,0,0,0,64.0,,0
+Saudi Arabia,Aircraft,1949,137,39967.63,2017.0,2.0,2011.0,1955.0,10.0,platform,1,0,1,6.0,-62.0,0
+Saudi Arabia,Anti-submarine warfare weapons,1979,4,102.5,,,,,,weapon,0,0,0,46.0,,0
+Saudi Arabia,Armoured vehicles,1951,111,11590.43,,,1990.0,1978.0,7.0,platform,0,0,1,27.0,,0
+Saudi Arabia,Artillery,1960,36,1222.72,,,2011.0,1991.0,1.0,weapon,0,0,1,31.0,,0
+Saudi Arabia,Engines,1971,33,996.17,,,,,,subsystem,0,0,0,54.0,,0
+Saudi Arabia,Missiles,1963,133,11812.51,,,2021.0,1976.0,1.0,weapon,0,0,1,13.0,,0
+Saudi Arabia,Naval weapons,1977,7,87.5,,,,,,weapon,0,0,0,48.0,,0
+Saudi Arabia,Sensors,1967,46,3070.4700000000003,,,1997.0,1985.0,1.0,subsystem,0,0,1,18.0,,0
+Saudi Arabia,Ships,1959,19,5051.4,2018.0,2.0,2018.0,,,platform,1,0,0,66.0,7.0,1
+Senegal,Aircraft,1960,39,215.6,,,,1967.0,1.0,platform,0,0,1,7.0,,0
+Senegal,Armoured vehicles,1960,30,170.75,,,,,,platform,0,0,0,65.0,,0
+Senegal,Artillery,1960,9,21.1,,,,,,weapon,0,0,0,65.0,,0
+Senegal,Engines,2014,5,13.6,,,,,,subsystem,0,0,0,11.0,,0
+Senegal,Missiles,1978,3,13.1,,,,,,weapon,0,0,0,47.0,,0
+Senegal,Naval weapons,1979,2,13.25,,,,,,weapon,0,0,0,46.0,,0
+Senegal,Sensors,2018,3,46.5,,,,,,subsystem,0,0,0,7.0,,0
+Senegal,Ships,1961,17,352.21000000000004,,,,1974.0,1.0,platform,0,0,1,13.0,,0
+Serbia,Air defence systems,1961,14,2352.79,1967.0,1.0,1967.0,,,weapon,1,0,0,64.0,58.0,1
+Serbia,Aircraft,1950,59,6535.35,1959.0,3.0,1959.0,1970.0,13.0,platform,1,0,1,20.0,11.0,1
+Serbia,Anti-submarine warfare weapons,1955,1,3.0,,,,,,weapon,0,0,0,70.0,,0
+Serbia,Armoured vehicles,1951,27,4663.33,,,,1976.0,10.0,platform,0,0,1,25.0,,0
+Serbia,Artillery,1951,13,831.15,,,,1963.0,33.0,weapon,0,0,1,12.0,,0
+Serbia,Engines,1960,12,398.0,1978.0,1.0,1978.0,,,subsystem,1,0,0,65.0,47.0,1
+Serbia,Missiles,1958,48,2495.18,1964.0,2.0,1964.0,1982.0,2.0,weapon,1,0,1,24.0,18.0,1
+Serbia,Naval weapons,1955,2,28.98,,,,,,weapon,0,0,0,70.0,,0
+Serbia,Sensors,1952,24,475.5,,,,,,subsystem,0,0,0,73.0,,0
+Serbia,Ships,1950,10,1565.6,1964.0,1.0,1964.0,1955.0,20.0,platform,1,0,1,5.0,-9.0,0
+Seychelles,Aircraft,1979,9,27.62,,,,,,platform,0,0,0,46.0,,0
+Seychelles,Armoured vehicles,1977,2,1.7000000000000002,,,,,,platform,0,0,0,48.0,,0
+Seychelles,Artillery,1979,2,1.14,,,,1994.0,2.0,weapon,0,0,1,15.0,,0
+Seychelles,Missiles,1979,1,2.0,,,,,,weapon,0,0,0,46.0,,0
+Seychelles,Sensors,2012,2,5.0,,,,,,subsystem,0,0,0,13.0,,0
+Seychelles,Ships,1977,10,100.34,,,,,,platform,0,0,0,48.0,,0
+Sierra Leone,Aircraft,1972,12,42.82,,,,,,platform,0,0,0,53.0,,0
+Sierra Leone,Armoured vehicles,1978,7,10.82,,,,,,platform,0,0,0,47.0,,0
+Sierra Leone,Artillery,2010,1,2.1,,,,,,weapon,0,0,0,15.0,,0
+Sierra Leone,Ships,1973,5,105.0,,,,,,platform,0,0,0,52.0,,0
+Singapore,Air defence systems,1969,8,595.5,,,,,,weapon,0,0,0,56.0,,0
+Singapore,Aircraft,1968,92,9958.789999999999,1980.0,1.0,1972.0,1978.0,7.0,platform,1,0,1,10.0,-2.0,0
+Singapore,Anti-submarine warfare weapons,1986,8,276.5,,,,,,weapon,0,0,0,39.0,,0
+Singapore,Armoured vehicles,1965,30,1599.02,2013.0,1.0,2013.0,2008.0,2.0,platform,1,0,1,43.0,-5.0,0
+Singapore,Artillery,1970,8,171.75,,,,1995.0,8.0,weapon,0,0,1,25.0,,0
+Singapore,Engines,1983,15,596.7,,,,,,subsystem,0,0,0,42.0,,0
+Singapore,Missiles,1969,63,1838.53,1999.0,1.0,1978.0,1982.0,1.0,weapon,1,0,1,13.0,-17.0,0
+Singapore,Naval weapons,1970,5,101.5,,,,,,weapon,0,0,0,55.0,,0
+Singapore,Sensors,1968,46,1543.48,,,,,,subsystem,0,0,0,57.0,,0
+Singapore,Ships,1955,21,3873.5899999999997,1955.0,6.0,1955.0,1969.0,30.0,platform,1,0,1,14.0,14.0,1
+Slovakia,Air defence systems,2023,2,12.0,,,,2022.0,1.0,weapon,0,1,0,2.0,,0
+Slovakia,Aircraft,1993,13,1113.49,,,,1995.0,12.0,platform,0,0,1,2.0,,0
+Slovakia,Armoured vehicles,1994,10,48.85,2022.0,4.0,2022.0,1992.0,20.0,platform,1,1,0,31.0,3.0,0
+Slovakia,Engines,2014,3,8.0,,,,1991.0,2.0,subsystem,0,1,0,11.0,,0
+Slovakia,Missiles,1993,14,61.47,,,,1998.0,5.0,weapon,0,0,1,5.0,,0
+Slovakia,Sensors,2018,2,6.0,,,2021.0,2013.0,2.0,subsystem,0,1,0,7.0,,0
+Slovenia,Air defence systems,2000,3,24.0,,,,2024.0,1.0,weapon,0,0,1,24.0,,0
+Slovenia,Aircraft,1991,14,124.39999999999999,,,,,,platform,0,0,0,34.0,,0
+Slovenia,Armoured vehicles,1998,10,49.71,,,1998.0,2022.0,4.0,platform,0,0,1,24.0,,0
+Slovenia,Artillery,1995,3,32.0,,,1996.0,2016.0,1.0,weapon,0,0,1,21.0,,0
+Slovenia,Engines,1995,4,11.55,,,,,,subsystem,0,0,0,30.0,,0
+Slovenia,Missiles,2000,7,27.68,,,,,,weapon,0,0,0,25.0,,0
+Slovenia,Sensors,1991,2,48.0,,,,2015.0,1.0,subsystem,0,0,1,24.0,,0
+Slovenia,Ships,1996,2,29.25,,,,,,platform,0,0,0,29.0,,0
+Solomon Islands,Ships,1985,3,26.0,,,,,,platform,0,0,0,40.0,,0
+Somalia,Air defence systems,1966,7,258.85,,,,,,weapon,0,0,0,59.0,,0
+Somalia,Aircraft,1960,35,576.51,,,,,,platform,0,0,0,65.0,,0
+Somalia,Armoured vehicles,1960,39,414.63,,,,,,platform,0,0,0,65.0,,0
+Somalia,Artillery,1972,13,86.15,,,,,,weapon,0,0,0,53.0,,0
+Somalia,Missiles,1973,11,83.72,,,,,,weapon,0,0,0,52.0,,0
+Somalia,Sensors,1966,2,27.96,,,,,,subsystem,0,0,0,59.0,,0
+Somalia,Ships,1972,4,97.2,,,,,,platform,0,0,0,53.0,,0
+South Africa,Air defence systems,1963,4,200.06,,,,2000.0,3.0,weapon,0,0,1,37.0,,0
+South Africa,Aircraft,1950,75,5865.49,1965.0,2.0,1965.0,1961.0,46.0,platform,1,0,1,11.0,-4.0,0
+South Africa,Anti-submarine warfare weapons,1963,2,103.0,,,,,,weapon,0,0,0,62.0,,0
+South Africa,Armoured vehicles,1953,13,1396.3,2013.0,2.0,2013.0,1960.0,190.0,platform,1,0,1,7.0,-53.0,0
+South Africa,Artillery,1976,1,20.4,,,,1984.0,9.0,weapon,0,0,1,8.0,,0
+South Africa,Engines,1954,15,507.55,,,,,,subsystem,0,0,0,71.0,,0
+South Africa,Missiles,1955,20,250.03,,,,1991.0,13.0,weapon,0,0,1,36.0,,0
+South Africa,Naval weapons,1955,2,6.300000000000001,,,,,,weapon,0,0,0,70.0,,0
+South Africa,Satellites,2006,1,50.0,,,,,,subsystem,0,0,0,19.0,,0
+South Africa,Sensors,1963,16,520.65,,,,2007.0,1.0,subsystem,0,0,1,44.0,,0
+South Africa,Ships,1950,17,3388.0,1974.0,2.0,1974.0,1959.0,3.0,platform,1,0,1,9.0,-15.0,0
+South Korea,Air defence systems,1963,14,3848.9,1972.0,2.0,1972.0,2022.0,3.0,weapon,1,0,1,59.0,50.0,1
+South Korea,Aircraft,1950,131,26838.3,1976.0,10.0,1969.0,1972.0,27.0,platform,1,0,1,22.0,-4.0,0
+South Korea,Anti-submarine warfare weapons,1965,5,535.5,,,,2016.0,3.0,weapon,0,0,1,51.0,,0
+South Korea,Armoured vehicles,1950,34,7023.12,1976.0,5.0,1976.0,1993.0,32.0,platform,1,0,1,43.0,17.0,1
+South Korea,Artillery,1950,17,2583.02,1965.0,4.0,1965.0,1981.0,33.0,weapon,1,0,1,31.0,16.0,1
+South Korea,Engines,1964,57,2562.37,1981.0,11.0,1981.0,2023.0,1.0,subsystem,1,0,1,59.0,42.0,1
+South Korea,Missiles,1957,125,4775.24,,,,2012.0,22.0,weapon,0,0,1,55.0,,0
+South Korea,Naval weapons,1978,17,728.75,1999.0,2.0,1999.0,,,weapon,1,0,0,47.0,26.0,1
+South Korea,Sensors,1957,60,2475.5,1979.0,8.0,1979.0,,,subsystem,1,0,0,68.0,46.0,1
+South Korea,Ships,1949,57,6642.26,1960.0,8.0,1960.0,1976.0,54.0,platform,1,0,1,27.0,16.0,1
+South Sudan,Aircraft,2007,5,92.87,,,,,,platform,0,0,0,18.0,,0
+South Sudan,Armoured vehicles,2006,6,137.68,,,,,,platform,0,0,0,19.0,,0
+South Sudan,Artillery,2006,1,2.64,,,,,,weapon,0,0,0,19.0,,0
+South Sudan,Missiles,2013,2,15.5,,,,,,weapon,0,0,0,12.0,,0
+South Vietnam,Air defence systems,1967,1,12.0,,,,,,weapon,0,0,0,58.0,,0
+South Vietnam,Aircraft,1951,56,5506.360000000001,,,1970.0,,,platform,0,0,0,74.0,,0
+South Vietnam,Armoured vehicles,1956,13,988.35,,,,,,platform,0,0,0,69.0,,0
+South Vietnam,Artillery,1964,6,324.6,,,,,,weapon,0,0,0,61.0,,0
+South Vietnam,Engines,1967,2,87.0,,,,,,subsystem,0,0,0,58.0,,0
+South Vietnam,Ships,1954,24,592.41,,,,1970.0,1.0,platform,0,0,1,16.0,,0
+South Yemen,Air defence systems,1979,5,634.72,,,,,,weapon,0,0,0,46.0,,0
+South Yemen,Aircraft,1965,21,1321.32,,,,1974.0,2.0,platform,0,0,1,9.0,,0
+South Yemen,Armoured vehicles,1966,17,978.58,,,,,,platform,0,0,0,59.0,,0
+South Yemen,Artillery,1972,9,161.12,,,,,,weapon,0,0,0,53.0,,0
+South Yemen,Missiles,1972,18,348.4,,,,,,weapon,0,0,0,53.0,,0
+South Yemen,Ships,1967,12,348.3,,,,1986.0,1.0,platform,0,0,1,19.0,,0
+Spain,Air defence systems,1960,17,1003.4,,,1984.0,2022.0,2.0,weapon,0,0,1,62.0,,0
+Spain,Aircraft,1953,133,10965.52,1956.0,12.0,1956.0,1959.0,192.0,platform,1,0,1,6.0,3.0,1
+Spain,Anti-submarine warfare weapons,1965,5,208.75,,,2005.0,,,weapon,0,0,0,60.0,,0
+Spain,Armoured vehicles,1953,49,3353.2400000000002,1998.0,4.0,1998.0,1965.0,26.0,platform,1,0,1,12.0,-33.0,0
+Spain,Artillery,1955,15,353.54,,,,1971.0,13.0,weapon,0,0,1,16.0,,0
+Spain,Engines,1945,46,918.88,1977.0,10.0,1977.0,,,subsystem,1,0,0,80.0,48.0,1
+Spain,Missiles,1960,79,1889.6200000000001,1987.0,2.0,1987.0,2022.0,7.0,weapon,1,0,1,62.0,35.0,1
+Spain,Naval weapons,1948,5,49.73,1972.0,1.0,1972.0,,,weapon,1,0,0,77.0,53.0,1
+Spain,Sensors,1960,59,1339.48,2022.0,1.0,2022.0,2004.0,23.0,subsystem,1,0,1,44.0,-18.0,0
+Spain,Ships,1952,34,6306.55,1966.0,9.0,1966.0,1963.0,39.0,platform,1,0,1,11.0,-3.0,0
+Sri Lanka,Aircraft,1950,89,975.04,,,1977.0,,,platform,0,0,0,75.0,,0
+Sri Lanka,Armoured vehicles,1959,28,325.36,,,,,,platform,0,0,0,66.0,,0
+Sri Lanka,Artillery,1990,8,51.54,,,,,,weapon,0,0,0,35.0,,0
+Sri Lanka,Engines,1990,3,22.4,,,,,,subsystem,0,0,0,35.0,,0
+Sri Lanka,Missiles,1999,3,11.75,,,,,,weapon,0,0,0,26.0,,0
+Sri Lanka,Naval weapons,1998,1,12.0,,,,,,weapon,0,0,0,27.0,,0
+Sri Lanka,Sensors,1998,8,81.0,,,,,,subsystem,0,0,0,27.0,,0
+Sri Lanka,Ships,1955,36,1022.35,1995.0,1.0,1995.0,1997.0,1.0,platform,1,0,1,42.0,2.0,1
+Sudan,Air defence systems,1969,6,87.58,,,,,,weapon,0,0,0,56.0,,0
+Sudan,Aircraft,1955,77,3077.17,2023.0,1.0,2023.0,1967.0,3.0,platform,1,0,1,12.0,-56.0,0
+Sudan,Armoured vehicles,1958,66,1164.78,2001.0,4.0,2001.0,,,platform,1,0,0,67.0,24.0,1
+Sudan,Artillery,1962,24,160.03,,,,,,weapon,0,0,0,63.0,,0
+Sudan,Engines,2004,5,19.08,,,,,,subsystem,0,0,0,21.0,,0
+Sudan,Missiles,1969,15,71.87,,,,,,weapon,0,0,0,56.0,,0
+Sudan,Sensors,1969,6,68.64,,,,,,subsystem,0,0,0,56.0,,0
+Sudan,Ships,1969,4,23.0,,,,,,platform,0,0,0,56.0,,0
+Suriname,Aircraft,1980,9,21.24,,,,,,platform,0,0,0,45.0,,0
+Suriname,Armoured vehicles,1975,4,9.040000000000001,,,,,,platform,0,0,0,50.0,,0
+Suriname,Engines,1985,1,1.05,,,,,,subsystem,0,0,0,40.0,,0
+Suriname,Sensors,1997,1,2.25,,,,,,subsystem,0,0,0,28.0,,0
+Suriname,Ships,1975,5,46.0,,,,,,platform,0,0,0,50.0,,0
+Sweden,Air defence systems,1961,5,690.0,,,,2024.0,2.0,weapon,0,0,1,63.0,,0
+Sweden,Aircraft,1948,69,2577.4900000000002,1952.0,2.0,1948.0,1950.0,70.0,platform,1,0,1,2.0,-2.0,0
+Sweden,Anti-submarine warfare weapons,1987,1,20.0,,,,1949.0,21.0,weapon,0,1,0,38.0,,0
+Sweden,Armoured vehicles,1952,35,1815.96,1994.0,1.0,1994.0,1960.0,55.0,platform,1,0,1,8.0,-34.0,0
+Sweden,Artillery,1955,1,127.5,1955.0,1.0,1955.0,1943.0,12.0,weapon,1,1,0,70.0,70.0,0
+Sweden,Engines,1946,27,3633.1,1946.0,7.0,1946.0,1973.0,24.0,subsystem,1,0,1,27.0,27.0,1
+Sweden,Missiles,1957,32,1759.01,1957.0,5.0,1957.0,1965.0,83.0,weapon,1,0,1,8.0,8.0,1
+Sweden,Satellites,2025,2,0.0,,,,,,subsystem,0,0,0,0.0,,0
+Sweden,Sensors,1947,52,1465.75,1950.0,2.0,1948.0,1970.0,145.0,subsystem,1,0,1,23.0,20.0,1
+Sweden,Ships,1964,10,1221.85,1964.0,2.0,1964.0,1954.0,19.0,platform,1,1,0,61.0,61.0,0
+Switzerland,Air defence systems,1961,4,735.0,,,1980.0,1956.0,44.0,weapon,0,1,0,64.0,,0
+Switzerland,Aircraft,1948,39,5532.179999999999,1961.0,3.0,1959.0,1962.0,130.0,platform,1,0,1,14.0,1.0,1
+Switzerland,Armoured vehicles,1946,17,2823.8399999999997,1984.0,1.0,1984.0,1958.0,82.0,platform,1,0,1,12.0,-26.0,0
+Switzerland,Artillery,1943,6,741.0,,,,2004.0,4.0,weapon,0,0,1,61.0,,0
+Switzerland,Engines,1968,8,208.9,,,,1964.0,1.0,subsystem,0,1,0,57.0,,0
+Switzerland,Missiles,1961,25,1556.9,,,1980.0,1956.0,2.0,weapon,0,1,0,64.0,,0
+Switzerland,Sensors,1956,12,463.15,,,,1958.0,63.0,subsystem,0,0,1,2.0,,0
+Syria,Air defence systems,1966,18,7868.86,,,,,,weapon,0,0,0,59.0,,0
+Syria,Aircraft,1949,80,13919.23,,,,,,platform,0,0,0,76.0,,0
+Syria,Anti-submarine warfare weapons,1973,3,16.0,,,,,,weapon,0,0,0,52.0,,0
+Syria,Armoured vehicles,1950,47,10276.93,,,,1977.0,8.0,platform,0,0,1,27.0,,0
+Syria,Artillery,1950,30,1667.64,,,,1985.0,3.0,weapon,0,0,1,35.0,,0
+Syria,Engines,1949,4,97.95,,,,,,subsystem,0,0,0,76.0,,0
+Syria,Missiles,1962,82,5166.91,1996.0,3.0,1990.0,1974.0,8.0,weapon,1,0,1,12.0,-22.0,0
+Syria,Sensors,1960,14,711.0,,,,,,subsystem,0,0,0,65.0,,0
+Syria,Ships,1956,16,956.0,,,,1969.0,1.0,platform,0,0,1,13.0,,0
+Taiwan,Air defence systems,1958,21,1974.72,,,1983.0,,,weapon,0,0,0,67.0,,0
+Taiwan,Aircraft,1951,104,20098.57,1969.0,6.0,1968.0,1967.0,16.0,platform,1,0,1,16.0,-2.0,0
+Taiwan,Anti-submarine warfare weapons,1988,9,465.85,,,,,,weapon,0,0,0,37.0,,0
+Taiwan,Armoured vehicles,1951,27,2987.92,1984.0,1.0,1984.0,,,platform,1,0,0,74.0,41.0,1
+Taiwan,Artillery,1954,19,924.1,1963.0,2.0,1963.0,,,weapon,1,0,0,71.0,62.0,1
+Taiwan,Engines,1963,17,951.09,1975.0,2.0,1975.0,,,subsystem,1,0,0,62.0,50.0,1
+Taiwan,Missiles,1958,87,3798.12,1977.0,1.0,1977.0,,,weapon,1,0,0,67.0,48.0,1
+Taiwan,Naval weapons,1958,10,202.29,,,,,,weapon,0,0,0,67.0,,0
+Taiwan,Satellites,1999,1,50.0,,,,,,subsystem,0,0,0,26.0,,0
+Taiwan,Sensors,1975,31,1699.84,1982.0,1.0,1982.0,,,subsystem,1,0,0,50.0,43.0,1
+Taiwan,Ships,1953,72,10334.539999999999,1977.0,4.0,1977.0,2009.0,1.0,platform,1,0,1,56.0,32.0,1
+Tajikistan,Air defence systems,2007,2,80.0,,,,,,weapon,0,0,0,18.0,,0
+Tajikistan,Aircraft,1993,7,61.0,2021.0,1.0,2021.0,,,platform,1,0,0,32.0,4.0,1
+Tajikistan,Armoured vehicles,2015,11,21.8,,,,,,platform,0,0,0,10.0,,0
+Tajikistan,Artillery,2013,3,5.9399999999999995,,,,,,weapon,0,0,0,12.0,,0
+Tajikistan,Missiles,2007,2,28.96,,,,,,weapon,0,0,0,18.0,,0
+Tajikistan,Sensors,2019,1,1.8,,,,,,subsystem,0,0,0,6.0,,0
+Tanzania,Air defence systems,1977,3,89.5,,,,,,weapon,0,0,0,48.0,,0
+Tanzania,Aircraft,1964,36,870.71,,,,,,platform,0,0,0,61.0,,0
+Tanzania,Armoured vehicles,1964,19,282.5,,,,,,platform,0,0,0,61.0,,0
+Tanzania,Artillery,1971,9,129.7,,,,,,weapon,0,0,0,54.0,,0
+Tanzania,Engines,1988,3,4.04,,,,,,subsystem,0,0,0,37.0,,0
+Tanzania,Missiles,1977,5,48.5,,,,,,weapon,0,0,0,48.0,,0
+Tanzania,Sensors,1978,5,50.0,,,,,,subsystem,0,0,0,47.0,,0
+Tanzania,Ships,1964,8,187.52,,,,,,platform,0,0,0,61.0,,0
+Thailand,Air defence systems,1964,15,389.74,,,,,,weapon,0,0,0,61.0,,0
+Thailand,Aircraft,1948,245,6602.56,,,1971.0,2003.0,3.0,platform,0,0,1,55.0,,0
+Thailand,Anti-submarine warfare weapons,1967,4,49.65,,,,,,weapon,0,0,0,58.0,,0
+Thailand,Armoured vehicles,1954,59,1953.89,,,,2015.0,3.0,platform,0,0,1,61.0,,0
+Thailand,Artillery,1962,38,705.76,2008.0,6.0,1981.0,,,weapon,1,0,0,63.0,17.0,1
+Thailand,Engines,1964,41,317.15,,,,2024.0,1.0,subsystem,0,0,1,60.0,,0
+Thailand,Missiles,1960,73,1040.15,,,,,,weapon,0,0,0,65.0,,0
+Thailand,Naval weapons,1982,11,59.0,,,,,,weapon,0,0,0,43.0,,0
+Thailand,Satellites,2018,1,20.0,,,,,,subsystem,0,0,0,7.0,,0
+Thailand,Sensors,1957,84,1069.2,,,,,,subsystem,0,0,0,68.0,,0
+Thailand,Ships,1946,44,3395.69,1978.0,9.0,1978.0,2002.0,2.0,platform,1,0,1,56.0,24.0,1
+Timor-Leste,Ships,2008,2,32.4,,,,,,platform,0,0,0,17.0,,0
+Togo,Aircraft,1963,27,181.53,,,,,,platform,0,0,0,62.0,,0
+Togo,Armoured vehicles,1958,20,78.51,,,2024.0,,,platform,0,0,0,67.0,,0
+Togo,Artillery,1970,2,3.12,,,,,,weapon,0,0,0,55.0,,0
+Togo,Engines,1976,2,2.88,,,,,,subsystem,0,0,0,49.0,,0
+Togo,Missiles,1975,1,0.8,,,,,,weapon,0,0,0,50.0,,0
+Togo,Sensors,1978,1,9.0,,,,,,subsystem,0,0,0,47.0,,0
+Togo,Ships,1975,2,20.0,,,,,,platform,0,0,0,50.0,,0
+Tonga,Aircraft,1985,2,0.29000000000000004,,,,,,platform,0,0,0,40.0,,0
+Tonga,Ships,1988,2,32.0,,,,,,platform,0,0,0,37.0,,0
+Trinidad and Tobago,Aircraft,1966,8,36.480000000000004,,,,,,platform,0,0,0,59.0,,0
+Trinidad and Tobago,Sensors,2002,1,1.5,,,,,,subsystem,0,0,0,23.0,,0
+Trinidad and Tobago,Ships,1963,10,187.92000000000002,,,,,,platform,0,0,0,62.0,,0
+Tunisia,Air defence systems,1967,3,15.68,,,,,,weapon,0,0,0,58.0,,0
+Tunisia,Aircraft,1959,46,874.04,,,,,,platform,0,0,0,66.0,,0
+Tunisia,Anti-submarine warfare weapons,1968,1,3.75,,,,,,weapon,0,0,0,57.0,,0
+Tunisia,Armoured vehicles,1956,36,488.95,,,,,,platform,0,0,0,69.0,,0
+Tunisia,Artillery,1960,6,85.35,,,,,,weapon,0,0,0,65.0,,0
+Tunisia,Engines,1965,8,56.46,,,,,,subsystem,0,0,0,60.0,,0
+Tunisia,Missiles,1968,13,184.71,,,,,,weapon,0,0,0,57.0,,0
+Tunisia,Sensors,1979,6,139.2,,,,,,subsystem,0,0,0,46.0,,0
+Tunisia,Ships,1959,20,664.4,,,,,,platform,0,0,0,66.0,,0
+Turkiye,Air defence systems,1954,16,2335.76,,,,2025.0,1.0,weapon,0,0,1,71.0,,0
+Turkiye,Aircraft,1950,165,26366.87,1984.0,6.0,1982.0,1956.0,71.0,platform,1,0,1,6.0,-28.0,0
+Turkiye,Anti-submarine warfare weapons,1965,11,632.0,,,,,,weapon,0,0,0,60.0,,0
+Turkiye,Armoured vehicles,1954,53,6928.31,1988.0,8.0,1988.0,1994.0,115.0,platform,1,0,1,40.0,6.0,1
+Turkiye,Artillery,1949,18,2371.5,1993.0,3.0,1993.0,2004.0,16.0,weapon,1,0,1,55.0,11.0,1
+Turkiye,Engines,1955,32,1017.87,2008.0,2.0,2008.0,,,subsystem,1,0,0,70.0,17.0,1
+Turkiye,Missiles,1954,102,4143.64,1963.0,3.0,1962.0,2013.0,32.0,weapon,1,0,1,59.0,50.0,1
+Turkiye,Naval weapons,1950,27,317.75,2017.0,2.0,2017.0,2021.0,1.0,weapon,1,0,1,71.0,4.0,1
+Turkiye,Satellites,2009,1,50.0,,,,,,subsystem,0,0,0,16.0,,0
+Turkiye,Sensors,1962,67,2371.71,1985.0,1.0,1985.0,2016.0,10.0,subsystem,1,0,1,54.0,31.0,1
+Turkiye,Ships,1950,80,11918.97,1963.0,18.0,1963.0,1979.0,31.0,platform,1,0,1,29.0,16.0,1
+Turkmenistan,Air defence systems,2008,5,195.0,,,,,,weapon,0,0,0,17.0,,0
+Turkmenistan,Aircraft,2003,13,278.1,,,,,,platform,0,0,0,22.0,,0
+Turkmenistan,Armoured vehicles,2008,16,102.83,,,,,,platform,0,0,0,17.0,,0
+Turkmenistan,Artillery,2008,6,24.119999999999997,,,,,,weapon,0,0,0,17.0,,0
+Turkmenistan,Engines,2008,9,57.96,,,,,,subsystem,0,0,0,17.0,,0
+Turkmenistan,Missiles,2008,16,215.02,,,,,,weapon,0,0,0,17.0,,0
+Turkmenistan,Naval weapons,2011,3,27.75,,,,,,weapon,0,0,0,14.0,,0
+Turkmenistan,Sensors,2003,7,116.0,,,,,,subsystem,0,0,0,22.0,,0
+Turkmenistan,Ships,2008,6,680.65,2019.0,1.0,2012.0,,,platform,1,0,0,17.0,6.0,1
+Uganda,Air defence systems,2008,1,100.0,,,,,,weapon,0,0,0,17.0,,0
+Uganda,Aircraft,1962,53,795.8,,,,1968.0,2.0,platform,0,0,1,6.0,,0
+Uganda,Armoured vehicles,1963,46,557.9,2013.0,2.0,2013.0,,,platform,1,0,0,62.0,12.0,1
+Uganda,Artillery,1975,13,70.44,,,,,,weapon,0,0,0,50.0,,0
+Uganda,Missiles,1973,13,102.42,,,,,,weapon,0,0,0,52.0,,0
+Ukraine,Air defence systems,2020,43,1698.26,,,,1997.0,5.0,weapon,0,1,0,5.0,,0
+Ukraine,Aircraft,2018,38,1454.6,2020.0,1.0,2020.0,1993.0,120.0,platform,1,1,0,7.0,5.0,0
+Ukraine,Armoured vehicles,2014,150,3718.4,,,2019.0,1956.0,109.0,platform,0,1,0,11.0,,0
+Ukraine,Artillery,2018,77,1127.95,,,,1999.0,27.0,weapon,0,1,0,7.0,,0
+Ukraine,Engines,2022,8,34.660000000000004,,,,1986.0,73.0,subsystem,0,1,0,3.0,,0
+Ukraine,Missiles,2017,147,5842.81,2025.0,1.0,2025.0,1991.0,69.0,weapon,1,1,0,8.0,0.0,0
+Ukraine,Naval weapons,2020,1,0.0,,,,2008.0,2.0,weapon,0,1,0,5.0,,0
+Ukraine,Sensors,2015,26,949.6,,,,1994.0,12.0,subsystem,0,1,0,10.0,,0
+Ukraine,Ships,2018,8,230.89999999999998,2020.0,1.0,2020.0,1992.0,11.0,platform,1,1,0,7.0,5.0,0
+United Arab Emirates,Air defence systems,1974,13,3276.1,,,,2019.0,1.0,weapon,0,0,1,45.0,,0
+United Arab Emirates,Aircraft,1967,127,13056.99,2006.0,3.0,2006.0,1983.0,27.0,platform,1,0,1,16.0,-23.0,0
+United Arab Emirates,Anti-submarine warfare weapons,1990,4,42.75,,,,,,weapon,0,0,0,35.0,,0
+United Arab Emirates,Armoured vehicles,1968,51,4412.7300000000005,2017.0,2.0,2002.0,1973.0,80.0,platform,1,0,1,5.0,-44.0,0
+United Arab Emirates,Artillery,1976,25,601.32,,,,1995.0,4.0,weapon,0,0,1,19.0,,0
+United Arab Emirates,Engines,1974,34,456.09000000000003,,,,,,subsystem,0,0,0,51.0,,0
+United Arab Emirates,Missiles,1970,112,8122.97,2011.0,5.0,2011.0,2014.0,3.0,weapon,1,0,1,44.0,3.0,1
+United Arab Emirates,Naval weapons,1977,9,113.0,,,,,,weapon,0,0,0,48.0,,0
+United Arab Emirates,Satellites,2015,1,50.0,,,,,,subsystem,0,0,0,10.0,,0
+United Arab Emirates,Sensors,1974,41,1161.75,,,,,,subsystem,0,0,0,51.0,,0
+United Arab Emirates,Ships,1973,23,2991.4,2003.0,6.0,2003.0,2005.0,6.0,platform,1,0,1,32.0,2.0,1
+United Kingdom,Air defence systems,1992,4,22.0,,,,1959.0,40.0,weapon,0,1,0,33.0,,0
+United Kingdom,Aircraft,1948,110,22068.079999999998,1967.0,6.0,1964.0,1945.0,772.0,platform,1,1,0,77.0,58.0,0
+United Kingdom,Anti-submarine warfare weapons,1954,7,948.7,1961.0,2.0,1961.0,1950.0,17.0,weapon,1,1,0,71.0,64.0,0
+United Kingdom,Armoured vehicles,1990,34,578.36,2014.0,5.0,2000.0,1948.0,317.0,platform,1,1,0,35.0,11.0,0
+United Kingdom,Artillery,1960,10,377.9,,,1985.0,1950.0,45.0,weapon,0,1,0,65.0,,0
+United Kingdom,Engines,1958,21,546.96,1997.0,1.0,1997.0,1946.0,200.0,subsystem,1,1,0,67.0,28.0,0
+United Kingdom,Missiles,1954,78,9742.01,1995.0,4.0,1971.0,1957.0,203.0,weapon,1,0,1,3.0,-38.0,0
+United Kingdom,Naval weapons,1980,10,556.5,,,,1950.0,15.0,weapon,0,1,0,45.0,,0
+United Kingdom,Sensors,1950,44,2440.5,1952.0,6.0,1952.0,1947.0,171.0,subsystem,1,1,0,75.0,73.0,0
+United Kingdom,Ships,1955,11,2081.0,2000.0,1.0,2000.0,1940.0,287.0,platform,1,1,0,70.0,25.0,0
+United States,Air defence systems,1975,6,4882.0,,,,1953.0,259.0,weapon,0,1,0,50.0,,0
+United States,Aircraft,1948,127,20499.78,1954.0,11.0,1954.0,1946.0,3767.0,platform,1,1,0,77.0,71.0,0
+United States,Armoured vehicles,1982,44,2612.7,2016.0,5.0,1982.0,1945.0,972.0,platform,1,1,0,43.0,9.0,0
+United States,Artillery,1987,9,2004.75,1987.0,3.0,1987.0,1949.0,428.0,weapon,1,1,0,38.0,38.0,0
+United States,Engines,1947,26,11754.6,1948.0,7.0,1948.0,1946.0,526.0,subsystem,1,1,0,78.0,77.0,0
+United States,Missiles,1958,28,2209.71,1958.0,5.0,1958.0,1954.0,1851.0,weapon,1,1,0,67.0,67.0,0
+United States,Naval weapons,1973,4,317.5,2004.0,2.0,2004.0,1940.0,122.0,weapon,1,1,0,52.0,21.0,0
+United States,Sensors,1970,33,2449.25,1973.0,5.0,1973.0,1950.0,697.0,subsystem,1,1,0,55.0,52.0,0
+United States,Ships,1961,30,3721.14,2006.0,6.0,2006.0,1946.0,700.0,platform,1,1,0,64.0,19.0,0
+Uruguay,Aircraft,1948,96,496.89,,,,1960.0,2.0,platform,0,0,1,12.0,,0
+Uruguay,Anti-submarine warfare weapons,1967,2,6.75,,,,,,weapon,0,0,0,58.0,,0
+Uruguay,Armoured vehicles,1957,25,132.56,,,,,,platform,0,0,0,68.0,,0
+Uruguay,Artillery,1953,10,39.58,,,,,,weapon,0,0,0,72.0,,0
+Uruguay,Engines,1980,5,8.23,,,,,,subsystem,0,0,0,45.0,,0
+Uruguay,Missiles,1983,1,1.0,,,,,,weapon,0,0,0,42.0,,0
+Uruguay,Sensors,2006,1,20.0,,,,,,subsystem,0,0,0,19.0,,0
+Uruguay,Ships,1951,21,467.68,,,,,,platform,0,0,0,74.0,,0
+Uzbekistan,Air defence systems,2008,4,140.0,,,,,,weapon,0,0,0,17.0,,0
+Uzbekistan,Aircraft,2013,10,339.0,,,,2001.0,4.0,platform,0,1,0,12.0,,0
+Uzbekistan,Armoured vehicles,2001,8,71.56,,,,,,platform,0,0,0,24.0,,0
+Uzbekistan,Engines,2014,2,6.0,,,,,,subsystem,0,0,0,11.0,,0
+Uzbekistan,Missiles,2013,5,98.45,,,,,,weapon,0,0,0,12.0,,0
+Vanuatu,Ships,1985,2,13.0,,,,,,platform,0,0,0,40.0,,0
+Venezuela,Air defence systems,1961,9,866.28,,,,,,weapon,0,0,0,64.0,,0
+Venezuela,Aircraft,1949,127,5286.08,,,,1969.0,9.0,platform,0,0,1,20.0,,0
+Venezuela,Anti-submarine warfare weapons,1966,3,101.25,,,,,,weapon,0,0,0,59.0,,0
+Venezuela,Armoured vehicles,1952,29,1025.43,,,,,,platform,0,0,0,73.0,,0
+Venezuela,Artillery,1958,14,246.35999999999999,,,,,,weapon,0,0,0,67.0,,0
+Venezuela,Engines,1953,13,223.38,,,,,,subsystem,0,0,0,72.0,,0
+Venezuela,Missiles,1968,41,1224.19,,,,2009.0,1.0,weapon,0,0,1,41.0,,0
+Venezuela,Naval weapons,1967,4,47.5,,,,,,weapon,0,0,0,58.0,,0
+Venezuela,Sensors,1968,28,628.22,,,,,,subsystem,0,0,0,57.0,,0
+Venezuela,Ships,1950,28,3565.81,2005.0,1.0,2005.0,,,platform,1,0,0,75.0,20.0,1
+Vietnam,Air defence systems,1965,14,4235.55,,,2008.0,1972.0,1.0,weapon,0,0,1,7.0,,0
+Vietnam,Aircraft,1953,69,8957.960000000001,,,,2018.0,1.0,platform,0,0,1,65.0,,0
+Vietnam,Anti-submarine warfare weapons,2009,3,198.0,,,,,,weapon,0,0,0,16.0,,0
+Vietnam,Armoured vehicles,1959,24,3007.02,,,,1987.0,1.0,platform,0,0,1,28.0,,0
+Vietnam,Artillery,1960,21,1084.94,,,,,,weapon,0,0,0,65.0,,0
+Vietnam,Engines,1980,13,148.1,,,,,,subsystem,0,0,0,45.0,,0
+Vietnam,Missiles,1965,59,3413.4,,,,,,weapon,0,0,0,60.0,,0
+Vietnam,Sensors,1961,18,1718.1,2013.0,1.0,2013.0,,,subsystem,1,0,0,64.0,12.0,1
+Vietnam,Ships,1956,40,5003.44,2004.0,5.0,1996.0,2005.0,1.0,platform,1,0,1,49.0,1.0,1
+Yemen,Air defence systems,1979,4,388.41,,,,,,weapon,0,0,0,46.0,,0
+Yemen,Aircraft,1948,48,1867.41,,,,1985.0,1.0,platform,0,0,1,37.0,,0
+Yemen,Armoured vehicles,1956,43,1292.52,,,2007.0,,,platform,0,0,0,69.0,,0
+Yemen,Artillery,1966,9,87.4,,,,,,weapon,0,0,0,59.0,,0
+Yemen,Engines,1999,3,21.66,,,,,,subsystem,0,0,0,26.0,,0
+Yemen,Missiles,1976,21,405.99,,,,,,weapon,0,0,0,49.0,,0
+Yemen,Sensors,2006,1,70.0,,,,,,subsystem,0,0,0,19.0,,0
+Yemen,Ships,1968,10,455.48,,,,,,platform,0,0,0,57.0,,0
+Zambia,Air defence systems,1971,3,164.5,,,,,,weapon,0,0,0,54.0,,0
+Zambia,Aircraft,1963,51,867.15,,,,1989.0,1.0,platform,0,0,1,26.0,,0
+Zambia,Armoured vehicles,1964,19,97.74,,,,,,platform,0,0,0,61.0,,0
+Zambia,Artillery,1970,6,36.9,,,,,,weapon,0,0,0,55.0,,0
+Zambia,Engines,1969,8,44.6,,,,,,subsystem,0,0,0,56.0,,0
+Zambia,Missiles,1971,8,63.1,,,,,,weapon,0,0,0,54.0,,0
+Zambia,Sensors,1978,2,12.75,,,,,,subsystem,0,0,0,47.0,,0
+Zambia,Ships,1966,1,8.0,,,,,,platform,0,0,0,59.0,,0
+Zimbabwe,Aircraft,1950,48,724.53,,,,1964.0,1.0,platform,0,0,1,14.0,,0
+Zimbabwe,Armoured vehicles,1950,21,223.84,,,,,,platform,0,0,0,75.0,,0
+Zimbabwe,Artillery,1967,6,66.36,,,,2000.0,1.0,weapon,0,0,1,33.0,,0
+Zimbabwe,Engines,2005,2,7.2,,,,,,subsystem,0,0,0,20.0,,0
+Zimbabwe,Sensors,1986,1,0.2,,,,,,subsystem,0,0,0,39.0,,0

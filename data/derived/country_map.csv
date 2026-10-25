@@ -1,0 +1,196 @@
+sipri_name,ccode,iso3,state_name,lineage,actor_type
+Afghanistan,700,AFG,Afghanistan,Afghanistan,state
+Albania,339,ALB,Albania,Albania,state
+Algeria,615,DZA,Algeria,Algeria,state
+Angola,540,AGO,Angola,Angola,state
+Antigua and Barbuda,58,ATG,Antigua and Barbuda,Antigua and Barbuda,state
+Argentina,160,ARG,Argentina,Argentina,state
+Armenia,371,ARM,Armenia,Armenia,state
+Aruba,,ABW,Aruba,Aruba,territory
+Australia,900,AUS,Australia,Australia,state
+Austria,305,AUT,Austria,Austria,state
+Azerbaijan,373,AZE,Azerbaijan,Azerbaijan,state
+Bahamas,31,BHS,Bahamas,Bahamas,state
+Bahrain,692,BHR,Bahrain,Bahrain,state
+Bangladesh,771,BGD,Bangladesh,Bangladesh,state
+Barbados,53,BRB,Barbados,Barbados,state
+Belarus,370,BLR,Belarus,Belarus,state
+Belgium,211,BEL,Belgium,Belgium,state
+Belize,80,BLZ,Belize,Belize,state
+Benin,434,BEN,Benin,Benin,state
+Bhutan,760,BTN,Bhutan,Bhutan,state
+Biafra,,,Biafra,Biafra,nonstate
+Bolivia,145,BOL,Bolivia,Bolivia,state
+Bosnia-Herzegovina,346,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,state
+Botswana,571,BWA,Botswana,Botswana,state
+Brazil,140,BRA,Brazil,Brazil,state
+Brunei,835,BRN,Brunei,Brunei,state
+Bulgaria,355,BGR,Bulgaria,Bulgaria,state
+Burkina Faso,439,BFA,Burkina Faso,Burkina Faso,state
+Burundi,516,BDI,Burundi,Burundi,state
+Cabo Verde,402,CPV,Cabo Verde,Cabo Verde,state
+Cambodia,811,KHM,Cambodia,Cambodia,state
+Cameroon,471,CMR,Cameroon,Cameroon,state
+Canada,20,CAN,Canada,Canada,state
+Central African Republic,482,CAF,Central African Republic,Central African Republic,state
+Chad,483,TCD,Chad,Chad,state
+Chile,155,CHL,Chile,Chile,state
+China,710,CHN,China,China,state
+Colombia,100,COL,Colombia,Colombia,state
+Comoros,581,COM,Comoros,Comoros,state
+Congo,484,COG,Republic of the Congo,Republic of the Congo,state
+Costa Rica,94,CRI,Costa Rica,Costa Rica,state
+Cote d'Ivoire,437,CIV,Cote d'Ivoire,Cote d'Ivoire,state
+Croatia,344,HRV,Croatia,Croatia,state
+Cuba,40,CUB,Cuba,Cuba,state
+Cyprus,352,CYP,Cyprus,Cyprus,state
+Czechia,316,CZE,Czechia,Czechia,state
+Czechoslovakia,315,CSK,Czechoslovakia,Czechia,state
+DR Congo,490,COD,DR Congo,DR Congo,state
+Denmark,390,DNK,Denmark,Denmark,state
+Djibouti,522,DJI,Djibouti,Djibouti,state
+Dominican Republic,42,DOM,Dominican Republic,Dominican Republic,state
+East Germany (GDR),265,DDR,East Germany,East Germany,state
+Ecuador,130,ECU,Ecuador,Ecuador,state
+Egypt,651,EGY,Egypt,Egypt,state
+El Salvador,92,SLV,El Salvador,El Salvador,state
+Equatorial Guinea,411,GNQ,Equatorial Guinea,Equatorial Guinea,state
+Eritrea,531,ERI,Eritrea,Eritrea,state
+Estonia,366,EST,Estonia,Estonia,state
+Ethiopia,530,ETH,Ethiopia,Ethiopia,state
+Fiji,950,FJI,Fiji,Fiji,state
+Finland,375,FIN,Finland,Finland,state
+France,220,FRA,France,France,state
+Gabon,481,GAB,Gabon,Gabon,state
+Gambia,420,GMB,Gambia,Gambia,state
+Georgia,372,GEO,Georgia,Georgia,state
+Germany,255,DEU,Germany,Germany,state
+Ghana,452,GHA,Ghana,Ghana,state
+Greece,350,GRC,Greece,Greece,state
+Grenada,55,GRD,Grenada,Grenada,state
+Guatemala,90,GTM,Guatemala,Guatemala,state
+Guinea,438,GIN,Guinea,Guinea,state
+Guinea-Bissau,404,GNB,Guinea-Bissau,Guinea-Bissau,state
+Guyana,110,GUY,Guyana,Guyana,state
+Haiti,41,HTI,Haiti,Haiti,state
+Honduras,91,HND,Honduras,Honduras,state
+Hungary,310,HUN,Hungary,Hungary,state
+Iceland,395,ISL,Iceland,Iceland,state
+India,750,IND,India,India,state
+Indonesia,850,IDN,Indonesia,Indonesia,state
+Iran,630,IRN,Iran,Iran,state
+Iraq,645,IRQ,Iraq,Iraq,state
+Ireland,205,IRL,Ireland,Ireland,state
+Israel,666,ISR,Israel,Israel,state
+Italy,325,ITA,Italy,Italy,state
+Jamaica,51,JAM,Jamaica,Jamaica,state
+Japan,740,JPN,Japan,Japan,state
+Jordan,663,JOR,Jordan,Jordan,state
+Katanga,,,Katanga,Katanga,nonstate
+Kazakhstan,705,KAZ,Kazakhstan,Kazakhstan,state
+Kenya,501,KEN,Kenya,Kenya,state
+Kosovo,347,XKX,Kosovo,Kosovo,state
+Kuwait,690,KWT,Kuwait,Kuwait,state
+Kyrgyzstan,703,KGZ,Kyrgyzstan,Kyrgyzstan,state
+Laos,812,LAO,Laos,Laos,state
+Latvia,367,LVA,Latvia,Latvia,state
+Lebanon,660,LBN,Lebanon,Lebanon,state
+Lesotho,570,LSO,Lesotho,Lesotho,state
+Liberia,450,LBR,Liberia,Liberia,state
+Libya,620,LBY,Libya,Libya,state
+Lithuania,368,LTU,Lithuania,Lithuania,state
+Luxembourg,212,LUX,Luxembourg,Luxembourg,state
+Madagascar,580,MDG,Madagascar,Madagascar,state
+Malawi,553,MWI,Malawi,Malawi,state
+Malaysia,820,MYS,Malaysia,Malaysia,state
+Maldives,781,MDV,Maldives,Maldives,state
+Mali,432,MLI,Mali,Mali,state
+Malta,338,MLT,Malta,Malta,state
+Mauritania,435,MRT,Mauritania,Mauritania,state
+Mauritius,590,MUS,Mauritius,Mauritius,state
+Mexico,70,MEX,Mexico,Mexico,state
+Moldova,359,MDA,Moldova,Moldova,state
+Mongolia,712,MNG,Mongolia,Mongolia,state
+Montenegro,341,MNE,Montenegro,Montenegro,state
+Morocco,600,MAR,Morocco,Morocco,state
+Mozambique,541,MOZ,Mozambique,Mozambique,state
+Myanmar,775,MMR,Myanmar,Myanmar,state
+Namibia,565,NAM,Namibia,Namibia,state
+Nepal,790,NPL,Nepal,Nepal,state
+Netherlands,210,NLD,Netherlands,Netherlands,state
+New Zealand,920,NZL,New Zealand,New Zealand,state
+Nicaragua,93,NIC,Nicaragua,Nicaragua,state
+Niger,436,NER,Niger,Niger,state
+Nigeria,475,NGA,Nigeria,Nigeria,state
+North Korea,731,PRK,North Korea,North Korea,state
+North Macedonia,343,MKD,North Macedonia,North Macedonia,state
+North Yemen,678,YAR,North Yemen,Yemen,state
+Yemen Arab Republic (North Yemen),678,YAR,North Yemen,Yemen,state
+Northern Cyprus,,,Northern Cyprus,Northern Cyprus,nonstate
+Norway,385,NOR,Norway,Norway,state
+Oman,698,OMN,Oman,Oman,state
+Pakistan,770,PAK,Pakistan,Pakistan,state
+Palestine,,PSE,Palestine,Palestine,nonstate
+Panama,95,PAN,Panama,Panama,state
+Papua New Guinea,910,PNG,Papua New Guinea,Papua New Guinea,state
+Paraguay,150,PRY,Paraguay,Paraguay,state
+Peru,135,PER,Peru,Peru,state
+Philippines,840,PHL,Philippines,Philippines,state
+Poland,290,POL,Poland,Poland,state
+Portugal,235,PRT,Portugal,Portugal,state
+Qatar,694,QAT,Qatar,Qatar,state
+Romania,360,ROU,Romania,Romania,state
+Russia,365,RUS,Russia,Russia,state
+Soviet Union,365,SUN,Soviet Union,Russia,state
+Rwanda,517,RWA,Rwanda,Rwanda,state
+Saint Kitts and Nevis,60,KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,state
+Saint Vincent,57,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,state
+Saudi Arabia,670,SAU,Saudi Arabia,Saudi Arabia,state
+Senegal,433,SEN,Senegal,Senegal,state
+Serbia,345,SRB,Serbia,Serbia,state
+Yugoslavia,345,YUG,Yugoslavia,Serbia,state
+Seychelles,591,SYC,Seychelles,Seychelles,state
+Sierra Leone,451,SLE,Sierra Leone,Sierra Leone,state
+Singapore,830,SGP,Singapore,Singapore,state
+Slovakia,317,SVK,Slovakia,Slovakia,state
+Slovenia,349,SVN,Slovenia,Slovenia,state
+Solomon Islands,940,SLB,Solomon Islands,Solomon Islands,state
+Somalia,520,SOM,Somalia,Somalia,state
+South Africa,560,ZAF,South Africa,South Africa,state
+South Korea,732,KOR,South Korea,South Korea,state
+South Sudan,626,SSD,South Sudan,South Sudan,state
+South Vietnam,817,VDR,South Vietnam,South Vietnam,state
+South Yemen,680,YMD,South Yemen,South Yemen,state
+Spain,230,ESP,Spain,Spain,state
+Sri Lanka,780,LKA,Sri Lanka,Sri Lanka,state
+Sudan,625,SDN,Sudan,Sudan,state
+Suriname,115,SUR,Suriname,Suriname,state
+Sweden,380,SWE,Sweden,Sweden,state
+Switzerland,225,CHE,Switzerland,Switzerland,state
+Syria,652,SYR,Syria,Syria,state
+Taiwan,713,TWN,Taiwan,Taiwan,state
+Tajikistan,702,TJK,Tajikistan,Tajikistan,state
+Tanzania,510,TZA,Tanzania,Tanzania,state
+Thailand,800,THA,Thailand,Thailand,state
+Timor-Leste,860,TLS,Timor-Leste,Timor-Leste,state
+Togo,461,TGO,Togo,Togo,state
+Tonga,955,TON,Tonga,Tonga,state
+Trinidad and Tobago,52,TTO,Trinidad and Tobago,Trinidad and Tobago,state
+Tunisia,616,TUN,Tunisia,Tunisia,state
+Turkiye,640,TUR,Turkiye,Turkiye,state
+Turkmenistan,701,TKM,Turkmenistan,Turkmenistan,state
+Uganda,500,UGA,Uganda,Uganda,state
+Ukraine,369,UKR,Ukraine,Ukraine,state
+United Arab Emirates,696,ARE,United Arab Emirates,United Arab Emirates,state
+United Kingdom,200,GBR,United Kingdom,United Kingdom,state
+United States,2,USA,United States,United States,state
+Uruguay,165,URY,Uruguay,Uruguay,state
+Uzbekistan,704,UZB,Uzbekistan,Uzbekistan,state
+Vanuatu,935,VUT,Vanuatu,Vanuatu,state
+Venezuela,101,VEN,Venezuela,Venezuela,state
+Viet Nam,816,VNM,Vietnam,Vietnam,state
+Western Sahara,,ESH,Western Sahara,Western Sahara,nonstate
+Yemen,679,YEM,Yemen,Yemen,state
+Zambia,551,ZMB,Zambia,Zambia,state
+Zimbabwe,552,ZWE,Zimbabwe,Zimbabwe,state
+eSwatini,572,SWZ,Eswatini,Eswatini,state

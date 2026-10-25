@@ -1,0 +1,10 @@
+spec,var,n_pairs,events,HR,lo,hi,p
+"(A1) Internal controls only, sample with external data (1960+)",lic,1000,253,2.1,1.53,2.87,0.0
+"(A2) + log GDP, log GDP pc, log Milex (t-1)",lic,1000,253,2.17,1.57,3.0,0.0
+(A3) + country-stratified,lic,1000,253,1.31,0.85,2.04,0.224
+(A4) Milex only (1950+ sample),lic,1062,290,1.69,1.26,2.28,0.001
+"(A5) Milex only, country-stratified",lic,1062,290,1.35,0.89,2.03,0.157
+"(C1) US vs non-US licensor, pooled",lic_US,1000,253,1.22,0.7,2.15,0.482
+"(C1) US vs non-US licensor, pooled",lic_nonUS,1000,253,2.7,1.92,3.8,0.0
+"(C2) US vs non-US licensor, country-stratified",lic_US,1000,253,1.19,0.56,2.53,0.643
+"(C2) US vs non-US licensor, country-stratified",lic_nonUS,1000,253,1.35,0.84,2.16,0.212

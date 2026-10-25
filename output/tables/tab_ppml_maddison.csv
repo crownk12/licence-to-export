@@ -1,0 +1,4 @@
+spec,var,coef,se,p,n
+"(MB2) export deals ~ log licence stock(t-5) + Maddison GDP, GDP pc, Milex; 1950+",log_lic_stock_l5,-0.117,0.119,0.324,7696
+(MB3) any licence by t-5,ever_lic_l5,-0.19,0.206,0.356,7696
+(MB4) outcome = # export categories,log_lic_stock_l5,-0.005,0.103,0.959,7696
