@@ -6,7 +6,9 @@ Code and derived data for the manuscript *Does Licensed Production Build Arms Ex
 
 **Authors.** Wonkyun Yim, Yoseob Cho, Seokjoong Kang (Graduate School of Management of Technology, Korea University). Corresponding author: Seokjoong Kang (sjkang62@korea.ac.kr); correspondence on this repository: Wonkyun Yim (yimwk88@korea.ac.kr).
 
-**Citation.** [Zenodo DOI badge will appear here after the first release.]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23634082.svg)](https://doi.org/10.5281/zenodo.23634082)
+
+**Citation.** Yim, Wonkyun, Yoseob Cho, and Seokjoong Kang. 2026. *licence-to-export: replication package for "Does Licensed Production Build Arms Exporters? Evidence from 75 Years of Major-Arms Transfers"* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23634082
 
 ## What is here
 
