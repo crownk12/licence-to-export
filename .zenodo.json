@@ -3,11 +3,29 @@
   "upload_type": "software",
   "description": "Code, coding rules and derived panels for a study of whether licensed production of major conventional arms brings forward a recipient state's first export in the same weapon category, using the SIPRI Arms Transfers Database 1950-2025. Raw SIPRI, Maddison and World Bank files are not redistributed; the README gives extraction details.",
   "creators": [
-    {"name": "Yim, Wonkyun", "affiliation": "Graduate School of Management of Technology, Korea University"},
-    {"name": "Cho, Yoseob", "affiliation": "Graduate School of Management of Technology, Korea University"},
-    {"name": "Kang, Seokjoong", "affiliation": "Graduate School of Management of Technology, Korea University"}
+    {
+      "name": "Yim, Wonkyun",
+      "affiliation": "Graduate School of Management of Technology, Korea University",
+      "orcid": "0000-0002-6056-8605"
+    },
+    {
+      "name": "Cho, Yoseob",
+      "affiliation": "Graduate School of Management of Technology, Korea University"
+    },
+    {
+      "name": "Kang, Seokjoong",
+      "affiliation": "Graduate School of Management of Technology, Korea University",
+      "orcid": "0000-0003-1404-4509"
+    }
   ],
-  "keywords": ["arms transfers", "licensed production", "defence industrialization", "SIPRI", "survival analysis", "technology transfer"],
+  "keywords": [
+    "arms transfers",
+    "licensed production",
+    "defence industrialization",
+    "SIPRI",
+    "survival analysis",
+    "technology transfer"
+  ],
   "license": "MIT",
   "access_right": "open"
 }
